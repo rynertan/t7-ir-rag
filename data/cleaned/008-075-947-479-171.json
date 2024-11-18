@@ -1,0 +1,14 @@
+{
+  "lens_id": "008-075-947-479-171",
+  "doc_number": "104300365",
+  "title": "Method for manufacturing laser device with both divergence angle and threshold current reduced",
+  "abstract": "A method for manufacturing a laser device with both divergence angle and threshold current reduced comprises the steps of 1, manufacturing an n-type constraint layer, an n-shaped low-refractive-index insert layer, an n-shaped waveguide layer, a quantum well active area, a p-type waveguide layer, a p-type low-refractive-index insert layer, a p-type constraint layer and a p-type contact layer on a gallium arsenide substrate in sequence; 2, conducing wet corrosion or dry etching on the p-type contact layer and the p-type constraint layer so that the p-type contact layer and the p-type constraint layer can become ridged; 3, growing an oxidation film on the etched ridge, and manufacturing a p-type ohmic electrode on the upper surface of the p-type contact layer through photoetching; 4, thinning and cleaning the gallium arsenide substrate, and manufacturing an n-type ohmic electrode on the back side of the gallium arsenide substrate, so that the laser device is formed; 5, conducting cleavage, conducting film coating on the cavosurface of the laser device, and finally packaging the laser device on a tube so that manufacturing can be finished. By the adoption of the method, the single-mode feature of lasing of the laser device can be improved, and beam quality can be improved.",
+  "ipcr_codes": [
+    "H01S5/22",
+    "H01S5/343"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

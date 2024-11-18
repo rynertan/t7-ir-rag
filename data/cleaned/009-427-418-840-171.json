@@ -1,0 +1,26 @@
+{
+  "lens_id": "009-427-418-840-171",
+  "doc_number": "2005050533",
+  "title": "IMAGE CLUSTERING WITH METRIC, LOCAL LINEAR STRUCTURE, AND AFFINE SYMMETRY",
+  "abstract": "A system and a method are disclosed for clustering (370) images of objects seen from different viewpoints. That is, given an unlabelled set of images of n objects (310), an unsupervised algorithm groups the images into N disjoint subsets such that each subset only contains images of a single object. The clustering method makes use of a broad geometric framework that exploits the interplay between the geometry of appearance manifolds and the symmetry of the 2D affine group.",
+  "ipcr_codes": [
+    "G06K9/62",
+    "G06K/",
+    "G06K9/00",
+    "G06K9/46"
+  ],
+  "cpc_codes": [
+    "G06F18/2323",
+    "G06F18/21375",
+    "G06F18/22",
+    "G06F18/2323",
+    "G06F18/22",
+    "G06F18/21375"
+  ],
+  "cited_patents": [
+    "5239596",
+    "2002097914"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

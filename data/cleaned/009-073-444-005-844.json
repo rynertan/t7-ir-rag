@@ -1,0 +1,22 @@
+{
+  "lens_id": "009-073-444-005-844",
+  "doc_number": "105699356",
+  "title": "Method for judging fluorescence quenching degree of Raman spectrum through information entropy",
+  "abstract": "The invention discloses a method for judging the fluorescence quenching degree of Raman spectrum through information entropy and relates to a Raman spectrum fluorescence quenching method. The method uses the discrete-sequence information entropy as the criterion of fluorescence deduction, fluorescence is gradually deducted from a mixed signal, and the fluorescence in the mixed signal is completely quenched when the information entropy reaches the minimum. The method has the advantages that the fluorescence quenching degree is judged through the information entropy, the method is scientific and reasonable and unlimited by instrument wave-number range, instrument performance can be brought into full play, and the freedom degree of instrument design and manufacturing is increased; the limitation that the fluorescence residue situation needs to be judged in a specific wavelength range in the prior art is solved, no special requirement on spectrum range is needed, and the method is adaptive to instrument design with different wavelength settings; Raman true signals which conform to actual mechanisms and are not interfered by fluorescence can be obtained fast and accurately while equipment complexity is not increased and an existing measuring habit is not changed, and the method is easy to popularize and use.",
+  "ipcr_codes": [
+    "G01N21/65"
+  ],
+  "cpc_codes": [
+    "G01N21/65"
+  ],
+  "cited_patents": [
+    "S60113132",
+    "1425911",
+    "2006197947",
+    "103901014",
+    "104198463",
+    "2015096779"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

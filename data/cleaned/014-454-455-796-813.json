@@ -1,0 +1,33 @@
+{
+  "lens_id": "014-454-455-796-813",
+  "doc_number": "1006510",
+  "title": "System zur Signalkodierung und -dekodierung",
+  "abstract": "A signal encoding system A1 includes a bark spectrum calculating device 2 for calculating a bark spectrum as a parameter based on an auditory model, a bark spectrum encoding device 3 for encoding the bark spectrum, a sound source calculating device 4 and a sound source encoding device 5. The bark spectrum calculating device 2 includes a power spectrum calculating device 6, a critical band integrating device 7, an equal loudness compensating device 8 and a loudness converting device 9. These devices are formed by engineering the functions and effects which are similar to those of the auditory model. The decoding process perform the conversion in the opposite direction. As a result, the signals can be encoded and decoded through less calculation in a manner well matching the human auditory characteristics. When speech signals are to be encoded, it can be realized through less calculation and memory while suppressing noise components other than the speech signal.",
+  "ipcr_codes": [
+    "G10L19/00",
+    "G10L19/038",
+    "G10L25/00",
+    "G10L25/18"
+  ],
+  "cpc_codes": [
+    "G10L19/02",
+    "G10L19/0208",
+    "G10L19/0212",
+    "G10L21/0232",
+    "G10L21/0264",
+    "G10L25/27",
+    "G10L2021/02168",
+    "G10L19/02",
+    "G10L25/27",
+    "G10L2021/02168",
+    "G10L19/0208",
+    "G10L21/0264",
+    "G10L21/0232",
+    "G10L19/0212"
+  ],
+  "cited_patents": [
+    "5537647"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

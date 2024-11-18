@@ -1,0 +1,17 @@
+{
+  "lens_id": "013-009-856-859-043",
+  "doc_number": "107481750",
+  "title": "Coding and decoding method for reducing energy consumption of multi-layer-cell spin-transfer torque magnetic random access memory",
+  "abstract": "The invention discloses a coding and decoding method for reducing energy consumption of a multi-layer-cell spin-transfer torque magnetic random access memory (MLC STT-RAM), and belongs to the technical field of data coding and decoding. The method comprises the steps of performing coding and decoding: coding to-be-written cache line data according to cache line data existing in a memory bank, flag bit data and the to-be-written cache line data to generate new cache line data and new flag bit data when the coding occurs in data writing, wherein the coding mainly comprises the three steps of reading the data, coding Hard bits, and coding Soft bits; when the decoding mainly occurs in request data reading, data read from the memory bank in a decoding process comprises cache line data with certain bits and flag bit data with certain bits; a ratio of the cache line data to the flag bit data can be determined according to an actual demand; and data obtained by the decoding is data of a cache line. According to the method, the Hard bits and the Soft bits of the MLC STT-RAM are separately coded, so that the quantity of required state transition HT and ST in a writing process is reduced, and the writing energy consumption of the MLC STT-RAM can be effectively reduced.",
+  "ipcr_codes": [
+    "G11C11/16"
+  ],
+  "cpc_codes": [
+    "G11C11/161"
+  ],
+  "cited_patents": [
+    "106328184"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

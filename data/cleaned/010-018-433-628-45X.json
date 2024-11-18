@@ -1,0 +1,21 @@
+{
+  "lens_id": "010-018-433-628-45X",
+  "doc_number": "104134844",
+  "title": "Planar magic-T based on substrate integration technology",
+  "abstract": "The invention discloses a planar magic-T based on the substrate integration technology. The planar magic-T based on the substrate integration technology sequentially comprises a top metal layer, a dielectric substrate and a bottom metal layer from top to bottom, the top metal layer is pentagonal, five rows of metallized through holes are distributed in the dielectric substrate and arranged radially, every two adjacent rows of metallized through holes intersect with each other and form an included angle of 72 degrees, the top metal layer is arranged over the five rows of metallized through holes, any three adjacent vertexes of the top metal layer are respectively connected with one microstrip line, and one difference arm is further arranged on the same layer of the three microstrip lines. The planar magic-T based on the substrate integration technology is simple in structure, large in work bandwidth and more suitable for modern microwave millimeter wave circuit integration.",
+  "ipcr_codes": [
+    "H01P5/20"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "2011143687",
+    "102394376",
+    "102544677",
+    "1067788",
+    "2010188281",
+    "102142593",
+    "102157771"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

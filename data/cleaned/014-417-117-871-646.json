@@ -1,0 +1,28 @@
+{
+  "lens_id": "014-417-117-871-646",
+  "doc_number": "110458104",
+  "title": "Human eye sight line direction determination method and system of human eye sight line detection system",
+  "abstract": "The embodiment of the invention provides a human eye sight line direction determination method and system of a human eye sight line detection system. The human eye sight line detection system comprises a plurality of cameras, a steering engine holder and a laser ranging device arranged on the steering engine holder. The method comprises the following steps: determining the coordinates of the lightspots emitted by the laser ranging device in a three-dimensional world coordinate system taking the rotation center of the steering engine holder as the origin of coordinates; and acquiring a plurality of user images acquired by the plurality of cameras to determine coordinates of human eyes in the three-dimensional world coordinate system, and determining a direction vector of human eye sight inthe three-dimensional world coordinate system based on the light spot coordinates and the human eye coordinates. The steering engine holder is arranged, so that human eye sight image data of continuous direction angles can be collected, and the steering engine holder can be suitable for various scenes such as narrow automobile cabs.",
+  "ipcr_codes": [
+    "G06K9/00"
+  ],
+  "cpc_codes": [
+    "G06V40/193",
+    "G06V40/18",
+    "G06V20/597"
+  ],
+  "cited_patents": [
+    "4829141",
+    "2016142489",
+    "106662917",
+    "206161864",
+    "107562184",
+    "108700934",
+    "108985172",
+    "6479272",
+    "102749991",
+    "108229284"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

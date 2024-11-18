@@ -1,0 +1,27 @@
+{
+  "lens_id": "012-867-254-316-046",
+  "doc_number": "112741636",
+  "title": "Temporal lobe epilepsy detection system based on multi-site synchronous change",
+  "abstract": "The invention discloses a temporal lobe epilepsy detection system based on multi-site synchronous change. The system is characterized by comprising at least one computer system configured to receive abnormal discharge signals synchronously recorded on a plurality of sites on a hippocampus and marginal system, preprocess the received abnormal discharge signal to determine a target frequency band for detection, and detect the temporal lobe epilepsy according to the synchronous change condition of the abnormal discharge signals of the multiple sites in the target frequency band. The epileptic seizure is detected by analyzing the synchronous change of the multiple sites on the hippocampus and the marginal system.",
+  "ipcr_codes": [
+    "A61B5/369",
+    "A61B5/374"
+  ],
+  "cpc_codes": [
+    "A61B5/4094"
+  ],
+  "cited_patents": [
+    "106137185",
+    "107095669",
+    "209186698",
+    "111887843",
+    "2008133626",
+    "102722727",
+    "105595961",
+    "106709244",
+    "2018098725",
+    "110693493"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

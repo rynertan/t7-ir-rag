@@ -1,0 +1,20 @@
+{
+  "lens_id": "009-636-572-259-976",
+  "doc_number": "112147310",
+  "title": "Method for predicting nucleation induction period of cyclopentane hydrate in wax-containing water-in-oil emulsion system",
+  "abstract": "The invention discloses a method for predicting the nucleation induction period of cyclopentane hydrate in a wax-containing water-in-oil emulsion system. The method comprises the following steps thata wax-free water-in-oil emulsion is prepared, and the nucleation induction period of cyclopentane hydrate is measured in the wax-free water-in-oil emulsion; the specific surface area of water drops ofthe wax-free water-in-oil emulsion is measured to obtain the water drop Sauter mean particle size of the water drops, and the water drop Sauter mean particle size can be calculated by measuring the particle size distribution of the water drops of the wax-free water-in-oil emulsion; the nucleation induction period of the cyclopentane hydrate in the free-wax water-in-oil emulsion is correlated withthe specific surface area of liquid drops of the wax-free water-in-oil emulsion to obtain relational expressions of formula 1 and formula 2; and the nucleation induction period of cyclopentane hydrate in the wax-containing water-in-oil emulsion system is obtained according to formula 3. By utilizing the measurement method, the calculation and prediction of the nucleation induction period of the cyclopentane hydrate in the wax-containing water-in-oil emulsion system can be realized; and the method can be applied to effectively predict the generation time of the gas hydrate in the seabed wax-containing crude oil, gas and water mixed transportation pipeline, and is beneficial to ensuring the flow safety of hydrate slurry in the deepwater oil, gas, and water mixed transportation pipeline.",
+  "ipcr_codes": [
+    "G01N33/28",
+    "G06F17/15"
+  ],
+  "cpc_codes": [
+    "G01N33/2823",
+    "G01N33/2835",
+    "G06F17/15"
+  ],
+  "cited_patents": [
+    "109241563"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

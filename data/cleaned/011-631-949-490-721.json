@@ -1,0 +1,20 @@
+{
+  "lens_id": "011-631-949-490-721",
+  "doc_number": "104424386",
+  "title": "Multi-parameter magnetic resonance image based prostate cancer computer auxiliary identification system",
+  "abstract": "The invention discloses a multi-parameter magnetic resonance image based prostate cancer computer auxiliary identification system and method. The multi-parameter magnetic resonance image based prostate cancer computer auxiliary identification system comprises three portions of an image preprocessing module, a parameter processing module and a prediction and evaluation module. According to the multi-parameter magnetic resonance image based prostate cancer computer auxiliary identification system, the characteristics of a T2 weighted image, a diffusion weighted image and a dynamic enhanced image are comprehensively utilized and the purpose of the identification of the prostate cancer focus is achieved through an artificial neural network structure; the ROC (Receiver Operating Characteristic) area under curve of the peripheral zone of prostate of the system is 0.931 and the identification accuracy is 0.887 and the ROC area under curve in the central gland is 0.909 and the identification accuracy is 0.915 through a test; the image information obtained through the conventional magnetic resonance imaging scanning sequence scanning sequence can be well integrated, quantitative parameters in the images are utilized in a maximum mode, and the identification result of the prostate cancer is objectively provided; the operation is simple and convenient, the reference can be intuitively provided for doctors, and the important basis is provided for the subsequent diagnosis scheme.",
+  "ipcr_codes": [
+    "G06F19/00",
+    "A61B5/055"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "5989811",
+    "6004267",
+    "101551855",
+    "102038502",
+    "102247144"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,43 @@
+{
+  "lens_id": "008-668-780-261-958",
+  "doc_number": "111132428",
+  "title": "VEHICLE ILLUMINATION device",
+  "abstract": "Provided is a vehicle illumination device, including: interior lighting provided in a vehicle that is operable in a manual driving mode and in an autonomous driving mode; a detection device, providedin the vehicle, that detects an ambient light level outside the vehicle; a first control unit, provided in the vehicle, that controls switching on and switching off of headlights on the basis of a detection result from the detection device; and a second control unit that controls an illumination level of the interior lighting, such that the illumination level of the interior light when the headlights have been switched on while the vehicle is in the autonomous driving mode is higher than the illumination level of the interior lighting when the headlights have been switched on while the vehicleis in the manual driving mode.",
+  "ipcr_codes": [
+    "H05B47/11",
+    "B60Q1/076",
+    "B60Q3/80"
+  ],
+  "cpc_codes": [
+    "B60Q1/076",
+    "B60Q3/80",
+    "B60Q3/80",
+    "B60Q3/74",
+    "B60Q1/1423",
+    "B60Q2300/314",
+    "B60J1/2016",
+    "B60Q3/80",
+    "B60Q3/74",
+    "B60J1/2011",
+    "B60Q1/04",
+    "B60Q2300/314",
+    "G05D1/0061"
+  ],
+  "cited_patents": [
+    "104908742",
+    "2015261219",
+    "2017158771",
+    "2017334455",
+    "2018024351",
+    "2018043825",
+    "2018056851",
+    "107933478",
+    "108430816",
+    "3369617",
+    "107074148",
+    "107650685",
+    "3369620"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

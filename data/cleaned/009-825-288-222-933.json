@@ -1,0 +1,28 @@
+{
+  "lens_id": "009-825-288-222-933",
+  "doc_number": "102005037369",
+  "title": "Magnetresonanz-Bildgebungsverfahren mit Anwendung der True-FISP-Sequenz und sequentieller Erfassung der MR-Bilder mehrerer Schichten eines Messobjekts",
+  "abstract": "Ein Verfahren zur Erzeugung von Magnetresonanzbildern unter Anwendung des TrueFISP-Sequenzschemas mit sequentieller Erfassung der MR-Bilder mehrerer Schichten eines Messobjekts umfasst die folgenden Schritte: DOLLAR A a) Festlegen der Zahl der zu erfassenden Schichten N in dem Messobjekt, wobei N mindestens 2 betr\u00e4gt, DOLLAR A b) Festlegen der Zahl der Phasenkodierzeilen MA pro Rohdatenmatrix und Schicht N mit der Ma\u00dfgabe, dass der Quotient aus MA und N eine nat\u00fcrliche Zahl ist, DOLLAR A c) Festlegen der Repetitionszeit TR, der Hochfrequenzpulsdauer HF und des Flipwinkels alpha, DOLLAR A d) Unterteilen jeder Rohdatenmatrix in S separat zu messende Segmente, wobei S gleich N oder ein ganzzahliges Vielfaches von N ist, mit der Ma\u00dfgabe, dass der Quotient Q aus MA und S, der der Anzahl der Phasenkodierzeilen pro Segment entspricht, eine nat\u00fcrliche Zahl ist, DOLLAR A e) Messen aller Segmente S aller Schichten N, wobei der Zeitraum T\u00b6Seg\u00b6 f\u00fcr die Akquisition der Daten jedes Segments DOLLAR F1 betr\u00e4gt und wobei die Messung aller Segmente S aller Schichten N so durchgef\u00fchrt wird, dass der Zeitraum T\u00b6Relax\u00b6 f\u00fcr die Relaxation der Magnetisierung M\u00b6z\u00b6 mit der Relaxationskonstanten T\u00b61\u00b6 in einer Schicht N, der dem Zeitraum von der Beendigung der Messung eines ersten Segments bis zum Beginn der Messung eines zweiten Segments derselben Schicht entspricht, DOLLAR A R\u00b6Relax\u00b6 = (M - 1) \u00c8 T\u00b6Seg\u00b6 [msec] DOLLAR A betr\u00e4gt.",
+  "ipcr_codes": [
+    "G01R33/483",
+    "G01R33/54"
+  ],
+  "cpc_codes": [
+    "G01R33/4822",
+    "G01R33/4835",
+    "G01R33/5613",
+    "G01R33/5614",
+    "G01R33/5614",
+    "G01R33/4822",
+    "G01R33/5613",
+    "G01R33/4835"
+  ],
+  "cited_patents": [
+    "19860488",
+    "19931292",
+    "10150133",
+    "2003122545"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

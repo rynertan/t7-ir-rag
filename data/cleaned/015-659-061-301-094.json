@@ -1,0 +1,22 @@
+{
+  "lens_id": "015-659-061-301-094",
+  "doc_number": "110907125",
+  "title": "Separated half-mode injection type nacelle dynamic influence test method",
+  "abstract": "The invention discloses a separated half-mold injection type nacelle power influence test method. A semi-model of an aircraft is arranged on a tunnel wall turntable of a wind tunnel, an injection typenacelle is arranged at a nacelle hanger of a semi-model wing, the injection type nacelle is not in contact with the semi-model wing, and a gap between the injection type nacelle and the nacelle hanger is filled with a soft material; the injection type nacelle is arranged on the tunnel wall turntable through a support, the semi-model and the injection type nacelle are driven to rotate synchronously under rotation of the tunnel wall turntable, and the interference acting force of intake and exhaust of the injection type nacelle on an airplane is obtained. According to the scheme, the injectiontype nacelle and the air supply system thereof are separated and independent from the model; the injection type nacelle does not make contact with the model to transmit force, static thrust measurement of the injection type nacelle does not need to be conducted, the injection type nacelle and the semi-model are supported on the wind tunnel test section turntable together through the special movable supporting device, synchronous movement of the nacelle and the semi-model is achieved, and a complex movement and control mechanism does not need to be designed for the nacelle.",
+  "ipcr_codes": [
+    "G01M9/06"
+  ],
+  "cpc_codes": [
+    "G01M9/06"
+  ],
+  "cited_patents": [
+    "2421702",
+    "102305699",
+    "2014202881",
+    "105021370",
+    "105117563",
+    "108303227"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

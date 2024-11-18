@@ -1,0 +1,23 @@
+{
+  "lens_id": "008-023-385-733-267",
+  "doc_number": "2317311",
+  "title": "Messnetzwerk und -verfahren",
+  "abstract": "A system and method are described for detecting toxic gas releases in an urban environment. The system comprises a series of repositionable remote sensor nodes that are located in an environment containing a toxic gas said sensor nodes including a chemical sensor and/or a meteorological sensor. The sensor nodes gather data relating to the type of gas released and the surrounding atmospheric conditions and relay the information back to a data processing hub where the data is collated and analysed to produce an indication of the likely spread of the gas plume, the likely danger to the surrounding population and an indication of the release point of the gas.\n",
+  "ipcr_codes": [
+    "G01N33/00",
+    "G08B21/14",
+    "G08B25/00"
+  ],
+  "cpc_codes": [
+    "G01N33/0075",
+    "G01N33/0075"
+  ],
+  "cited_patents": [
+    "2005119619",
+    "2004010398",
+    "2001040509",
+    "2005171701"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

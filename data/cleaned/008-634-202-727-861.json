@@ -1,0 +1,35 @@
+{
+  "lens_id": "008-634-202-727-861",
+  "doc_number": "2861222",
+  "title": "Dual-band planar antenna for use in wireless mobile network, has outer and inner annular slots supplied by two common supply line that cuts across slots in directions of respective protrusions",
+  "abstract": "The antenna has concentric outer and inner annular slots (60, 62), each comprising two rectangular protrusions (61, 63) on its outer and inner rim, respectively. The slots are supplied through two accesses by two common supply lines (64, 65) that cut across the slots in the directions of the respective protrusions. The slots allow an operating frequency of two sub-bands to be modified.",
+  "ipcr_codes": [
+    "H01Q13/16",
+    "H01Q1/38",
+    "H01Q5/00",
+    "H01Q5/10",
+    "H01Q5/35",
+    "H01Q13/10",
+    "H01Q25/00"
+  ],
+  "cpc_codes": [
+    "H01Q13/10",
+    "H01Q13/103",
+    "H01Q25/00",
+    "H01Q5/35",
+    "H01Q5/00",
+    "H01Q1/38",
+    "H01Q25/00",
+    "H01Q13/103",
+    "H01Q13/10",
+    "H01Q5/35"
+  ],
+  "cited_patents": [
+    "1012833",
+    "4006481",
+    "2833764",
+    "1367673"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,35 @@
+{
+  "lens_id": "011-656-396-170-365",
+  "doc_number": "2006070189",
+  "title": "CONTROL OF RFID DATA EXCHANGE",
+  "abstract": "An active RFID device (20), method and system for controlling data exchange between RFID tag reader/writer devices and passive or semi-active RFID devices (10) associated with said active RFID device (20); said RFID tag reader/writer devices having an associated data exchange means (30) for exchanging data with passive or semi-active RFID devices (10); said data exchange means (30) being arranged to provide authentication data indicative of the RFID tag reader/writer devices with which they are associated; and said active RFID device (20) comprising means for enabling exchange of data between said passive or semi-active RFID devices (10) and the RFID tag reader/writer devices with which said data exchange means (30) is associated in accordance with an applicable access policy for that RFID tag reader/writer device.",
+  "ipcr_codes": [
+    "G06K19/07",
+    "G06F21/31",
+    "G06F21/33",
+    "G06F21/60",
+    "G07C9/00",
+    "H04L9/32"
+  ],
+  "cpc_codes": [
+    "H04L9/3263",
+    "H04L2209/805",
+    "H04L2209/88",
+    "G06K19/0723",
+    "H04L63/0853",
+    "G06K19/073",
+    "G07C9/28",
+    "H04L9/32",
+    "H04L12/28",
+    "H04L9/3263",
+    "H04L2209/88",
+    "H04L2209/805",
+    "G06K19/0723",
+    "G06K19/073",
+    "H04L63/0853",
+    "G07C9/28"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

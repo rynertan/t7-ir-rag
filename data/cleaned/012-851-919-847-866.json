@@ -1,0 +1,30 @@
+{
+  "lens_id": "012-851-919-847-866",
+  "doc_number": "102016207052",
+  "title": "System und Verfahren zum Erfassen und Dekontaminieren von Photoplethysmographie (PPG)-Signalen in einem Fahrzeug",
+  "abstract": "System und Verfahren zum Verarbeiten von Photoplethysmographie(PPG)-Signalen in einem Fahrzeug. Das System und Verfahren enthalten das Empfangen eines PPG-Wellenformsignals von einem optischen Sensor. Das System und Verfahren enthalten ebenfalls das Verarbeiten eines PPG-Messsignals aufgrund des PPG-Wellenform-Signals. Das System und Verfahren enthalten zus\u00e4tzlich das Empfangen eines Rausch-Wellenformsignals von mindestens einem von: einem Sitzanordnungssensor, einem Fahrzeugsensor und einem Fahrzeugsystem. Au\u00dferdem enthalten das System und Verfahren das Verarbeiten eines Bewegungsartefakten-Messsignals aufgrund des Rausch-Wellenformsignals. Das System und Verfahren enthalten ferner das Verarbeiten eines verfeinerten PPG-Signals, um das Bewegungsartefakten-Messsignal von dem PPG-Messsignal zu unterdr\u00fccken.",
+  "ipcr_codes": [
+    "A61B5/0295",
+    "A61B5/1455",
+    "A61B5/18",
+    "A61B90/00",
+    "B60K28/06",
+    "B60W50/00",
+    "G06F19/00"
+  ],
+  "cpc_codes": [
+    "A61B5/02",
+    "A61B5/18",
+    "A61B5/1455",
+    "A61B5/1455",
+    "A61B5/721",
+    "A61B90/00",
+    "B60K28/06",
+    "B60W2040/0809",
+    "B60W2040/0872",
+    "B60W2540/26"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

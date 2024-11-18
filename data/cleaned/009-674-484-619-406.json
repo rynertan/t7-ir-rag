@@ -1,0 +1,25 @@
+{
+  "lens_id": "009-674-484-619-406",
+  "doc_number": "110006973",
+  "title": "Preparation method of ratio type broad-spectrum photoelectric immunosensor",
+  "abstract": "The invention discloses a preparation method of a ratio type broad-spectrum photoelectric immunosensor. Firstly, a sheet-like MoS2 material is prepared, the surface area of a substrate is improved, then CdS nanoparticles are deposited on the MoS2 through a chemical deposition method to serve as a photoelectrode, and stable photocurrent under visible light is achieved. Secondly, three-dimensional ZnS-Ag2S nanoflowers are prepared to immobilize a secondary antibody, the good energy level matching between Ag2S and CdS can not only reduce the change signals of the photocurrent, the HCl can also release Zn2+ after processing the material, and an electrochemical differentiating pulse signal can be generated. By adoption of the method disclosed by the invention, the uncertainty of single signal detection is overcome, the a dual-signal immunosensor is creatively constructed, that is, photoelectric signal response of a photoelectric material and electrical signal response of an electrochemicalprobe, three kinds of ochratoxins can be simultaneously detected, furthermore, the background noise can be effectively reduced, and the detection accuracy is improved.",
+  "ipcr_codes": [
+    "G01N27/327",
+    "G01N27/30",
+    "G01N27/48",
+    "G01N33/543"
+  ],
+  "cpc_codes": [
+    "G01N27/305",
+    "G01N27/3278",
+    "G01N27/48",
+    "G01N33/54346"
+  ],
+  "cited_patents": [
+    "104133069",
+    "104297464",
+    "106802315"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

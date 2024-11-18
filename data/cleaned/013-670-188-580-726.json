@@ -1,0 +1,18 @@
+{
+  "lens_id": "013-670-188-580-726",
+  "doc_number": "103279680",
+  "title": "Method and system for assessing human body trauma caused by air blasts",
+  "abstract": "The invention discloses a method and a system for assessing human body trauma caused by air blasts. The method comprises the steps of judging a blast environment and obtaining explosive parameters; if the blast environment is a closed environment, performing comprehensive trauma assessment according to the explosive parameters; and if the blast environment is an open environment, firstly, performing brisance assessment to determine a blast shock wave overpressure peak value, positive pressure duration and impulse, and then, sequentially performing shock wave trauma assessment, heat flow trauma assessment, fragment trauma assessment and poison gas trauma assessment to obtain assessment results of human body trauma caused by the air blasts under the open environment. The system comprises a blast environment judging and explosive parameter input module, a brisance assessment module, a shock wave trauma assessment module, a heat flow trauma assessment module, a fragment trauma assessment module, a poison trauma assessment module and an assessment result output module. According to the method and the system, assessment result data are rich, observation and comprehensive analysis are facilitated, the generality of the modules in the system is high, and the extensibility is provided.",
+  "ipcr_codes": [
+    "G06F19/00"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "102967189",
+    "102314537",
+    "101598666",
+    "1779409"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,18 @@
+{
+  "lens_id": "008-659-249-342-644",
+  "doc_number": "103186897",
+  "title": "Method and device for obtaining image diversity factor result",
+  "abstract": "The invention discloses a method and device for obtaining an image diversity factor result. The method includes the steps: obtaining a color diversity factor value and a structure diversity factor value of pixels in each same position by comparing the color similarity and the structure similarity of pixels in the same position in a first image and a second image; obtaining offset of each pixel through calculation and according to the color diversity factor value and the structure diversity factor value, and calculating an offset consistence diversity factor value of any pixel according to the offset of each pixel; obtaining diversity factor value results of the two images according to the color diversity factor values, the structure diversity factor values and the offset consistence diversity factor values. According to the method device for obtaining the image diversity factor result, improvement of precision of the image difference detection results is achieved.",
+  "ipcr_codes": [
+    "G06T7/00"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "1258900",
+    "101149843",
+    "2008192011",
+    "2009022541"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

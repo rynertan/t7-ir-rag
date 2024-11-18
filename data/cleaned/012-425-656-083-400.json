@@ -1,0 +1,23 @@
+{
+  "lens_id": "012-425-656-083-400",
+  "doc_number": "2431967",
+  "title": "Vorrichtung und Verfahren zur Stimmumwandlung",
+  "abstract": "In voice processing, a first distribution generation unit approximates a distribution of feature information representative of voice of a first speaker per a unit interval thereof as a mixed probability distribution which is a mixture of a plurality of first probability distributions corresponding to a plurality of different phones. A second distribution generation unit also approximates a distribution of feature information representative of voice of a second speaker as a mixed probability distribution which is a mixture of a plurality of second probability distributions. A function generation unit generates, for each phone, a conversion function for converting the feature information of voice of the first speaker to that of the second speaker based on respective statistics of the first and second probability distributions that correspond to the phone.\n",
+  "ipcr_codes": [
+    "G10L13/06",
+    "G10L21/007"
+  ],
+  "cpc_codes": [
+    "G10L13/06",
+    "G10L21/007",
+    "G10L21/003",
+    "G10L13/033",
+    "G10L21/003",
+    "G10L13/06",
+    "G10L21/007",
+    "G10L13/033"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,24 @@
+{
+  "lens_id": "008-028-760-173-12X",
+  "doc_number": "102019109311",
+  "title": "Anordnung und Verfahren zur Kalibrierung und Betrieb von kapazitiven Aktoren",
+  "abstract": "Die Erfindung betrifft eine Anordnung und ein Verfahren zur r\u00fcckf\u00fchrbaren Kalibrierung eines elektrostatischen Aktors. Die Anordnung weist neben einem gef\u00fchrten mechanischen Gestell mindestens eine Einrichtung zur elektrostatischen Krafterzeugung auf.Mit der hier vorgeschlagenen Anordnung und dem dazugeh\u00f6rigen Verfahren kann durch Messung der an den Einrichtungen zur elektrostatischen Krafterzeugung vorherrschenden elektrischen Kenngr\u00f6\u00dfen gleichzeitig und ohne die Anordnung oder messungsrelevante Teile der Vorrichtung in Resonanz zu versetzen, das Ma\u00df der Krafterzeugung bestimmt werden. Diese Kalibrierung kann w\u00e4hrend einer Krafterzeugung stattfinden.",
+  "ipcr_codes": [
+    "H02N1/00",
+    "G01D18/00",
+    "G01R35/00"
+  ],
+  "cpc_codes": [
+    "H02N1/006",
+    "G01R31/64",
+    "G01R31/2829"
+  ],
+  "cited_patents": [
+    "102015104696",
+    "2004113514",
+    "2006267596",
+    "4963829"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

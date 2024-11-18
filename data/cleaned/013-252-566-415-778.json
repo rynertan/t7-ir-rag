@@ -1,0 +1,32 @@
+{
+  "lens_id": "013-252-566-415-778",
+  "doc_number": "108085370",
+  "title": "Construction method and application of single-particle biological probe",
+  "abstract": "The invention provides a construction method and application of a single-particle biological probe. The construction method comprises the following steps: separately preparing gold and silver core-shell nano cubic (Au@AgNCs) collosol and a tsDNA solution, and fixing Au@AgNCs on the surface of indium tin oxide conductive film glass; and dropwise adding the tsDNA solution on the surface of the indium tin oxide conductive film glass fixed with Au@AgNCs, after incubating at a room temperature, washing with an ultra-pure water, and blow-drying with nitrogen to obtain a single-particle LSPR probe based on tsDNA. The particle size of the prepared single-particle probe is between 50 nm and 60 nm, the detection sensitivity reaches 1 aM, and LSPR scattered spectrum peak is positioned at 540-560 nm.Compared with the prior art, the construction method has the beneficial effects that compared with a silver nano cube, Au@AgNCs has similar plasma characteristics and more stable structure; and compared with single-chain DNA molecules with one-dimensional structures and hairpin type DNA molecules with two-dimensional structures, tsDNA with three-dimensional structures has higher rigidity and structural stability, and facilitates multi-functionalization and the like.",
+  "ipcr_codes": [
+    "C12Q1/6834",
+    "C12Q1/44",
+    "C12Q1/6811",
+    "G01N21/552"
+  ],
+  "cpc_codes": [
+    "C12Q1/6834",
+    "C12Q1/44",
+    "C12Q1/6811",
+    "G01N21/554",
+    "G01N2333/922"
+  ],
+  "cited_patents": [
+    "2007122405",
+    "102899418",
+    "2012125987",
+    "103308462",
+    "103344616",
+    "103698375",
+    "104032006",
+    "104263725",
+    "104555913"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

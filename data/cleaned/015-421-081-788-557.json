@@ -1,0 +1,47 @@
+{
+  "lens_id": "015-421-081-788-557",
+  "doc_number": "2013170032",
+  "title": "SYSTEM AND METHOD FOR MONITORING THE HEALTH OF A USER",
+  "abstract": "Embodiments of the present application relate generally to electrical and electronic hardware, computer software, wired and wireless network communications, wearable, hand held, portable computing devices for facilitating communication of information, and the fields of healthcare and personal health. More specifically the present application relates generally to the field of personal health, and more specifically to new and useful systems and methods for monitoring the health of a user as applied to the field of healthcare and personal health. A system optically detects facial features of a user and analyzes the features along with weight information about the user to make one or more recommendations to the user that are related to the user's health. The weight information may be wirelessly transmitted to the system by a wirelessly-enabled scale (e.g., a bath scale), data capable strap band, wristband, wristwatch, digital watch, or wireless activity monitoring and reporting device.",
+  "ipcr_codes": [
+    "A61B5/00",
+    "G09G5/00"
+  ],
+  "cpc_codes": [
+    "A61B5/0079",
+    "A61B5/0079",
+    "A61B5/0013",
+    "A61B5/0013",
+    "A61B5/0075",
+    "A61B5/0075",
+    "A61B5/0077",
+    "A61B5/0077",
+    "A61B5/0205",
+    "A61B5/0205",
+    "A61B5/02416",
+    "A61B5/02416",
+    "A61B5/165",
+    "A61B5/165",
+    "A61B5/4812",
+    "A61B5/4812",
+    "A61B5/681",
+    "A61B5/681",
+    "A61B5/6898",
+    "A61B5/6898",
+    "A61B5/742",
+    "A61B5/742",
+    "G06F3/005",
+    "G06F3/005",
+    "G16H40/63",
+    "G16H40/63",
+    "G16H40/67",
+    "G16H40/67",
+    "G16Z99/00",
+    "G16Z99/00"
+  ],
+  "cited_patents": [
+    "2009099462"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

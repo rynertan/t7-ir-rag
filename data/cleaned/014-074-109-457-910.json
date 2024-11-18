@@ -1,0 +1,25 @@
+{
+  "lens_id": "014-074-109-457-910",
+  "doc_number": "103439419",
+  "title": "Experimental method of determining extracting agent for oxytetracycline residue in earthworm",
+  "abstract": "The invention provides an experimental method of determining an extracting agent for an oxytetracycline residue in an earthworm. The method comprises the following steps: 1) grinding an earthworm sample and Na2SO4 to prepare tissue slurry and cleaning the tissue slurry with extracting agents to obtain extract liquid; 2) carrying out stirring, oscillation, ultrasonic extraction and low-temperature high-speed centrifugation and collecting supernatant; 3) allowing the supernatant to pass through a polytetrafluoroethylene filter membrane to remove impurities and determining the content of oxytetracycline by using high performance liquid chromatography; 4) respectively calculating standard-added recovery rates of oxytetracycline by a variety of the extracting agents; and 5) subjecting a determined extracting agent to primary extraction and secondary extraction and determining an optimal scheme through variance analysis. The invention has the following advantages: through experiments, it is determined that a mixed liquor of methanol and water in a volume ratio of 4: 1 is an optimal extracting agent for extraction of the oxytetracycline residue in the earthworm; the purpose of effective extraction can be completely achieved through one extraction with the optimal extracting agent at room temperature, and the extraction needs a short period of time and low cost, is simple and easy to implement, has high extraction efficiency and is easy to popularize and apply.",
+  "ipcr_codes": [
+    "G01N30/02",
+    "G01N33/15"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "101900711",
+    "102401818",
+    "2003194793",
+    "101639466",
+    "20090103323",
+    "101692073",
+    "102998405",
+    "S61277057",
+    "103091435",
+    "102998159"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

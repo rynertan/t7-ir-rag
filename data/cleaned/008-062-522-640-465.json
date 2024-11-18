@@ -1,0 +1,20 @@
+{
+  "lens_id": "008-062-522-640-465",
+  "doc_number": "0750294",
+  "title": "Vorrichtung und Verfahren zur Spracherkennung",
+  "abstract": "The device and method of the invention involve automatically designating a scope of a partial reference pattern. Plural reference patterns, each of which ends in each of composing frames and starts from a preceding frame, are supposed and cumulative distances at every frame are calculated. A partial reference pattern that has a minimal distance value as compared with all other partial patterns is taken as a partial input speech recognizing result.",
+  "ipcr_codes": [
+    "G10L15/12",
+    "G10L15/00",
+    "G10L15/10"
+  ],
+  "cpc_codes": [
+    "G10L15/10",
+    "G10L2015/088",
+    "G10L15/10",
+    "G10L2015/088"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

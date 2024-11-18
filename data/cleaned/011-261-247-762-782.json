@@ -1,0 +1,30 @@
+{
+  "lens_id": "011-261-247-762-782",
+  "doc_number": "1291765",
+  "title": "Vielfadenprozessor zur Verarbeitung von mehreren Befehlsstr\u00f6men unabh\u00e4ngig von einander durch eine flexible Durchsatzsteuerung in jedem Befehlsstrom",
+  "abstract": "A multithreaded processor for executing multiple instruction streams is provided. This multithreaded processor includes: a plurality of functional units for executing instructions; a plurality of instruction decode units, corresponding to the multiple instruction streams on a one-to-one basis, for respectively decoding an instruction, and producing an instruction issue request for designating to which functional unit the decoded instruction should be issued and requesting for the issuance of the decoded instruction to the designated functional unit; a holding unit for holding the priority level of each instruction stream; and a control unit for deciding which decoded instruction should be issued to a functional unit designated by two or more instruction issue requests at the same time, in accordance with the priority levels held by the holding unit.\n",
+  "ipcr_codes": [
+    "G06F9/30",
+    "G06F9/38",
+    "G06F9/46",
+    "G06F9/48"
+  ],
+  "cpc_codes": [
+    "G06F9/3009",
+    "G06F9/3822",
+    "G06F9/3851",
+    "G06F9/4843",
+    "G06F9/38",
+    "G06F9/4843",
+    "G06F9/3851",
+    "G06F9/3822",
+    "G06F9/3009"
+  ],
+  "cited_patents": [
+    "5430851",
+    "5546593",
+    "9802799"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

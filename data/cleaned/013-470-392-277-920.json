@@ -1,0 +1,29 @@
+{
+  "lens_id": "013-470-392-277-920",
+  "doc_number": "112433993",
+  "title": "Network data processing and analyzing system based on computer",
+  "abstract": "The invention discloses a network data processing and analyzing system based on a computer, which relates to the technical field of computers and comprises a data preprocessing module, a central control module, a checking and processing module and a deleting and analyzing module. The data preprocessing module is used for caching and storing network data, and the viewing processing module is used for processing and analyzing the situation that a user views the cached network data and determining the viewing requirement of the user for the network data. The deletion analysis module is used for analyzing and partially deleting the cached network data according to a viewing result of the viewing processing module; the cache data clicked and viewed by the user is analyzed, the viewing frequencyof each cache data is determined, the cache data clicked and viewed at low frequency is deleted by using the system, the user does not need to actively clean the cache data, the data type to be automatically cleaned is determined by using data analysis, and the use experience of the user is prevented from being influenced by important data cleaning.",
+  "ipcr_codes": [
+    "G06F16/16",
+    "G06F16/23",
+    "G06F16/957",
+    "G06F16/958"
+  ],
+  "cpc_codes": [
+    "G06F16/162",
+    "G06F16/2379",
+    "G06F16/9574",
+    "G06F16/986"
+  ],
+  "cited_patents": [
+    "105279163",
+    "108959505",
+    "110362769",
+    "2017139813",
+    "108829616",
+    "110287160",
+    "2020104242"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

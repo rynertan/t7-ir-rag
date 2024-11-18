@@ -1,0 +1,25 @@
+{
+  "lens_id": "014-650-546-677-471",
+  "doc_number": "104978750",
+  "title": "Method and device for processing video file",
+  "abstract": "The invention provides a method and a device for processing a video file. The video file comprises a plurality of video frames. The method comprises the following steps of: determining a relative motion vector of each video frame, relative to a former video frame, in the plurality of video frames; on the basis of the relative motion vector, aligning the plurality of video frames in the space so as to determine corresponding pixel points, on each video frame of the plurality of video frames, of the same space point; clustering all pixels corresponding to each space point so as to obtain pixel points which correspond to each space point and are relevant to a background; and creating an image relevant to the background of the video file on the basis of the obtained pixel points which correspond to the each space point and are relevant to the background.",
+  "ipcr_codes": [
+    "G06T7/20",
+    "G06V10/40"
+  ],
+  "cpc_codes": [
+    "G06T2207/10016",
+    "G06T2207/10024",
+    "G06T2207/20021",
+    "G06T7/174",
+    "G06T7/215",
+    "G06T7/194"
+  ],
+  "cited_patents": [
+    "2011051991",
+    "103299342",
+    "103489196"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

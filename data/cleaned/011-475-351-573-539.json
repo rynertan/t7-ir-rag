@@ -1,0 +1,41 @@
+{
+  "lens_id": "011-475-351-573-539",
+  "doc_number": "2295604",
+  "title": "Krebsdiagnose und Behandlung durch microRNA, die sich in der N\u00e4he von Krebs-verbindenen Chromosom-Merkmale befinden",
+  "abstract": "MicroRNA genes are highly associated with chromosomal features involved in the etiology of different cancers. The perturbations in the genomic structure or chromosomal architecture of a cell caused by these cancer-associated chromosomal features can affect the expression of the miR genes) located in close proximity to that chromosomal feature. Evaluation of miR gene expression can therefore be used to indicate the presence of a cancercausing chromosomal lesion in a subject. As the change in miR gene expression level caused by a cancer-associated chromosomal feature may also contribute to cancerigenesis, a given cancer fan be treated by restoring the level of miR gene expression to normal.\n",
+  "ipcr_codes": [
+    "C12Q1/68",
+    "A61K48/00",
+    "A61P35/00"
+  ],
+  "cpc_codes": [
+    "C12Q1/6886",
+    "C12Q2600/106",
+    "C12Q2600/158",
+    "C12Q2600/178",
+    "A61K31/7088",
+    "A61K31/713",
+    "A61P35/00",
+    "C12Q1/6886",
+    "C12Q2600/106",
+    "C12Q2600/158",
+    "C12Q2600/178",
+    "A61K31/7088",
+    "A61K31/713",
+    "A61K45/06",
+    "C12N15/113",
+    "C12N15/1135",
+    "C12N2310/11",
+    "C12N2310/31",
+    "C12N2310/32",
+    "C12N2310/33",
+    "C12N7/00",
+    "C12N2310/141",
+    "C12N2710/16143"
+  ],
+  "cited_patents": [
+    "2004043387"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

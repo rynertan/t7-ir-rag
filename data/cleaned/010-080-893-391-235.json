@@ -1,0 +1,32 @@
+{
+  "lens_id": "010-080-893-391-235",
+  "doc_number": "110516649",
+  "title": "Schoolfellow authentication method and system based on face recognition",
+  "abstract": "The invention discloses a schoolfellow authentication method and system based on face recognition, and the method comprises the steps: in order to increase an authentication rate, firstly processing aschool roll card, extracting a head portrait on the school roll card, and then carrying out the face recognition, thereby enabling the recognition speed to be high; if the face recognition is not passed, performing authentication in a name and face combined recognition mode; if the face recognition is still not passed, carrying out manual authentication. Therefore, the schoolfellow authenticationpassing rate is high, and the recognition speed is high. The schoolfellow authentication passing rate is high, and the recognition speed is high.",
+  "ipcr_codes": [
+    "G06K9/00",
+    "G06F21/32",
+    "G06K9/62"
+  ],
+  "cpc_codes": [
+    "G06F21/32",
+    "G06V40/161",
+    "G06V40/168",
+    "G06V40/172",
+    "G06F18/22"
+  ],
+  "cited_patents": [
+    "101770613",
+    "103218605",
+    "104166841",
+    "2016065864",
+    "105469076",
+    "106056079",
+    "106339673",
+    "106778676",
+    "108846306",
+    "109583299"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

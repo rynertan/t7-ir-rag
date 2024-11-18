@@ -1,0 +1,19 @@
+{
+  "lens_id": "014-668-984-113-84X",
+  "doc_number": "0752650",
+  "title": "Verfahren und Ger\u00e4t zum Erzeugen eines ausf\u00fchrbaren Codes aus objektorientiertem C++ Quellcode",
+  "abstract": "The present invention provides an improved method and apparatus for generating executable computer code for an application program written in C++ source code. In typical prior art systems, application program source code that has not itself been modified must still generally be recompiled in the event that object-oriented class definitions used by the application program and contained in separate header files have been modified. The methods and apparatus of the present invention reduce the need for such recompilation, by using procedural interfaces to implement object-oriented interfaces at the compiled code level. Thus, in accordance with the present invention, compiled header file code is generated that includes accessors for accessing object instances of the class definitions, each of the accessors being a procedure operative to access the object instances of the corresponding class definition. Compiled application program code is generated which replaces object references with procedure calls to appropriate accessors. In this way, the application program and the header file class definitions remain relatively independent of each other with respect to implementation details, even at the compiled code level.",
+  "ipcr_codes": [
+    "G06F9/44",
+    "G06F9/45"
+  ],
+  "cpc_codes": [
+    "G06F8/48",
+    "G06F8/48"
+  ],
+  "cited_patents": [
+    "5307499"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

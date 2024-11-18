@@ -1,0 +1,21 @@
+{
+  "lens_id": "014-814-302-912-883",
+  "doc_number": "104142289",
+  "title": "Online monitoring system for atmospheric aerosol",
+  "abstract": "The invention relates to an online monitoring system for atmospheric aerosol. The system is characterized by comprising an inverted optical microscope, wherein the inverted optical microscope is provided with a CCD camera, a sample channel is arranged on a carrier table of the inverted optical microscope and is a box body made of cover glass, the two opposite sides of the box body are provided with a sample inlet and a sample outlet respectively, the sample inlet is connected with a PM 2.5 cyclone separator through one sampling pipe, the sample outlet is connected with an airflow inlet of a flow controller through the other sampling pipe, and an airflow outlet of the flow controller is connected with a sampling pump. According to the online monitoring system, a high-magnification optical microscope can be utilized for observing the morphological characteristics of the atmospheric aerosol, the CCD camera and corresponding software are used for analyzing and counting the number of particles with different sizes and morphologies obtained by images, morphological characteristic observation and type and number counting for the particles can be achieved at the same time, practicability is high, equipment is simple and easy to operate, the degree of automation is high, the labor cost is low, and the system is particularly applicable to laboratory investigation and out-field observation.",
+  "ipcr_codes": [
+    "G01N15/06",
+    "G01N35/00"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "202928837",
+    "4940327",
+    "203606135",
+    "2002176069",
+    "2009073649",
+    "203577636"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

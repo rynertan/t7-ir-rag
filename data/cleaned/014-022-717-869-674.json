@@ -1,0 +1,37 @@
+{
+  "lens_id": "014-022-717-869-674",
+  "doc_number": "2392257",
+  "title": "Verfahren zur Pr\u00fcfung der Durchblutung durch Verwenden der Photoelektrischen Plethysmographie",
+  "abstract": "A method and system for assessing blood volume within a subject includes generating a cardiovascular waveform representing physiological characteristics of a subject and determining blood volume of the subject by analyzing the cardiovascular waveform. The step of analyzing includes generating a first trace of the per heart-beat maximums of the cardiovascular waveform, which is representative of the systolic pressure upon the cardiovascular signal, generating a second trace of the per heart-beat minimums of the cardiovascular waveform, which is representative of the diastolic pressure upon the cardiovascular signal, and comparing the respective first trace and the second trace to generate an estimate of relative blood volume within the subject. In accordance with an alternate method of analyzing harmonic analysis is applied to the cardiovascular waveform, extracting a frequency signal created by ventilation and applying the extracted frequency signal in determining blood volume of the subject.\n \n",
+  "ipcr_codes": [
+    "A61B5/024",
+    "A61B5/00",
+    "A61B5/02",
+    "G06F19/00"
+  ],
+  "cpc_codes": [
+    "A61B5/0059",
+    "A61B5/02416",
+    "A61B5/1455",
+    "A61B5/026",
+    "G16H40/63",
+    "G16H10/40",
+    "Y02A90/10",
+    "A61B5/1455",
+    "A61B5/0059",
+    "A61B5/02416",
+    "A61B5/026",
+    "G16H10/40",
+    "G16H40/63",
+    "Y02A90/10",
+    "A61B5/0205",
+    "A61B5/14551",
+    "A61B5/7282",
+    "A61B5/7405",
+    "A61B5/742",
+    "A61B5/746"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

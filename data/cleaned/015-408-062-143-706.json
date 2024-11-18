@@ -1,0 +1,31 @@
+{
+  "lens_id": "015-408-062-143-706",
+  "doc_number": "2011014856",
+  "title": "METHOD AND APPARATUS FOR A COMPACT MODULAR PHASED ARRAY ELEMENT",
+  "abstract": "In an exemplary embodiment, a modular phased array comprises a ground plane with a first side and a second side, where the ground plane has a slot. The modular phased array also comprises a patch antenna located on the first side of the ground plane, and a feed network located on the second side of the ground plane. In an exemplary embodiment, the ground plane isolates the patch antenna from the feed network. The feed network includes a compacted hybrid with two output ports. In an exemplary embodiment, the ground plane comprises slots that are non-orthogonal and non-parallel to the two output ports of the feed network. In another exemplary embodiment, the distance from the center of the patch antenna to the farthest output port of the two output ports of the compacted hybrid is wavelengths or less.",
+  "ipcr_codes": [
+    "H01Q21/28",
+    "H01Q13/08"
+  ],
+  "cpc_codes": [
+    "H01Q3/26",
+    "H01Q9/0457",
+    "H01Q21/065",
+    "Y10T29/49016",
+    "H01Q9/0414",
+    "H01Q9/0435",
+    "H01Q21/0075",
+    "Y10T29/49016",
+    "H01Q3/26",
+    "H01Q9/0457",
+    "H01Q21/065",
+    "H01Q13/10",
+    "H01Q21/0075"
+  ],
+  "cited_patents": [
+    "5043738",
+    "6114997"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

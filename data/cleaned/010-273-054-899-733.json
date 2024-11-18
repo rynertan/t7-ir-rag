@@ -1,0 +1,33 @@
+{
+  "lens_id": "010-273-054-899-733",
+  "doc_number": "110313162",
+  "title": "SYSTEM AND METHOD TO FACILITATE CONTENT DELIVERY TO MULTIPLE RECIPIENTS IN A NETWORK ENVIRONMENT",
+  "abstract": "A method is provided in one example embodiment and may include determining at a parent content node that a plurality of recipient content nodes are to receive a same content; generating, based on a determination that the same content is available at the parent content node, a multi-delivery header comprising a plurality of identifiers, wherein each identifier of the plurality of identifiers indicates each recipient content node that is to receive the same content; appending the multi-delivery header to one or more packets of an Internet Protocol (IP) flow associated with the same content; andtransmitting packets for the IP flow to each of the plurality of the recipient content nodes.",
+  "ipcr_codes": [
+    "H04L45/741",
+    "H04L45/16",
+    "H04L45/42"
+  ],
+  "cpc_codes": [
+    "H04L45/16",
+    "H04L65/611",
+    "H04L65/612",
+    "H04L67/63",
+    "H04L45/741",
+    "H04L45/42",
+    "H04L69/22",
+    "H04L69/164",
+    "H04L45/16",
+    "H04L65/611",
+    "H04L65/612",
+    "H04L67/63",
+    "H04L2101/659"
+  ],
+  "cited_patents": [
+    "2004205247",
+    "104137509",
+    "2016277201"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,24 @@
+{
+  "lens_id": "014-270-641-692-210",
+  "doc_number": "2009137045",
+  "title": "CRYSTAL STRUCTURE OF ALDEHYDE DEHYDROGENASE AND METHODS OF USE THEREOF",
+  "abstract": "The present disclosure provides a crystal structure of aldehyde dehydrogenase (ALDH) with a modulator of ALDH bound thereto. The present disclosure provides a computer readable medium comprising atomic coordinates for an ALDH polypeptide and a modulator bound to a site within the polypeptide. A method is also provided. In general terms, the method comprises computationally identifying a compound that binds to an ALDH polypeptide, using the atomic coordinates.",
+  "ipcr_codes": [
+    "C12N9/02",
+    "C12N9/00",
+    "G01N33/48"
+  ],
+  "cpc_codes": [
+    "C07K2299/00",
+    "C12Y102/01003",
+    "C12Y102/01004",
+    "G16C20/50",
+    "C12Y102/01004",
+    "C12Y102/01003",
+    "C07K2299/00",
+    "G16C20/50"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

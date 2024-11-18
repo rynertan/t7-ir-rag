@@ -1,0 +1,30 @@
+{
+  "lens_id": "012-062-494-051-78X",
+  "doc_number": "102012000718",
+  "title": "Reversible electrical energy storage device such as reversible battery for fossil fuel propelled vehicle, has non-conductive, insulating depletion region that is formed in electride portion of n-type semiconductor portion",
+  "abstract": "The device has two metallic power supply units provided with p-type semiconductor portion (3) and n-type semiconductor portion (2) which are arranged in planar contact with each other. Movable charge carriers are accumulated in p-type semiconductor portion. An electride portion of n-type semiconductor portion is provided with a non-conductive, insulating depletion region (2a) which is free of mobile charge carriers. The charge breakthrough and charge balance between semiconductor portions are prevented due to material properties of the electride portion.",
+  "ipcr_codes": [
+    "H01L49/00",
+    "H01L29/92",
+    "H02J15/00"
+  ],
+  "cpc_codes": [
+    "H01G11/04",
+    "H01L29/92",
+    "H01L29/93"
+  ],
+  "cited_patents": [
+    "102011112730",
+    "7722846",
+    "2056328",
+    "1876628",
+    "1900689",
+    "7465433",
+    "2011155970",
+    "102012000841",
+    "2010045228",
+    "102012000084"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

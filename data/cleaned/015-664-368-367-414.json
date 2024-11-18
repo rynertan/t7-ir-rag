@@ -1,0 +1,27 @@
+{
+  "lens_id": "015-664-368-367-414",
+  "doc_number": "2522087",
+  "title": "Methods and systems for genetic analysis",
+  "abstract": "This disclosure provides systems and methods for sample processing and data analysis. Sample processing may include nucleic acid sample processing and subsequent sequencing. Some or all of a nucleic acid sample may be sequenced to provide sequence information, which may be stored or otherwise maintained in an electronic storage location. The sequence information may be analyzed with the aid of a computer processor, and the analyzed sequence information may be stored in an electronic storage location that may include a pool or collection of sequence information and analyzed sequence information generated from the nucleic acid sample. Methods and systems of the present disclosure can be used, for example, for the analysis of a nucleic acid sample, for producing one or more libraries, and for producing biomedical reports. Methods and systems of the disclosure can aid in the diagnosis, monitoring, treatment, and prevention of one or more diseases and conditions.",
+  "ipcr_codes": [
+    "C12Q1/68",
+    "G06F19/20",
+    "G06N3/12"
+  ],
+  "cpc_codes": [
+    "C12Q1/6874",
+    "C12Q2537/159",
+    "G06N3/12",
+    "G16B25/00",
+    "G16H15/00"
+  ],
+  "cited_patents": [
+    "0281927",
+    "2012270206",
+    "2011009296",
+    "2005042668",
+    "2002006615"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

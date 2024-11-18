@@ -1,0 +1,21 @@
+{
+  "lens_id": "011-672-617-496-570",
+  "doc_number": "2015069936",
+  "title": "CANCER URINE TEST",
+  "abstract": "A urine test for diagnosing lung cancer has been developed that uses an artificial nose such as a colorimetric sensor arrays to identify metabolic profiles in urine headspace gas. Cancer cells excrete unique compounds that are a byproduct of their metabolism. The compounds are excreted through a patient's endocrine system by filtration through the kidneys and other organs and are ultimately excreted through the urine. Some of these cancer cell by-products excrete in the urine are small volatile organic compounds (VOCs). Once the urine has exited the body, these VOCs may be outgassed to the environment. Experimental research has determined that a colorimetric sensor array as disclosed is capable of reliably identifying patients with lung cancer based after exposure to the VOCs of the urine headspace gas.",
+  "ipcr_codes": [
+    "G01N33/493",
+    "G01N33/52"
+  ],
+  "cpc_codes": [
+    "G01N33/57488",
+    "G01N33/57488",
+    "G01N33/574",
+    "G01N33/57423"
+  ],
+  "cited_patents": [
+    "2008145947"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

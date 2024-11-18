@@ -1,0 +1,23 @@
+{
+  "lens_id": "009-833-500-365-588",
+  "doc_number": "0992946",
+  "title": "Voxel basierenden system zur schnellen Verformung von volumetrischen Gegenst\u00e4nden",
+  "abstract": "An improvement to a voxel-based system to permit rapidly deforming volumetric objects made up of inhomogeneous material provides different material constraints assigned to different elements, with the constraints of a link between two neighboring elements being calculated from contributions of the two affected elements. The order in which neighbors of moved element are considered for a move determines where in the body information is propagated first. The processing order can therefore be used to model different direction-dependent propagation speeds in the material.",
+  "ipcr_codes": [
+    "A61B17/00",
+    "G06T15/08",
+    "A61B19/00",
+    "G06T17/10",
+    "G06T19/00",
+    "G16H10/60"
+  ],
+  "cpc_codes": [
+    "G06T17/10",
+    "G06T17/10"
+  ],
+  "cited_patents": [
+    "5465323"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

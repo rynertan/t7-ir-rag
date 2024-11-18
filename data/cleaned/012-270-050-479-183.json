@@ -1,0 +1,22 @@
+{
+  "lens_id": "012-270-050-479-183",
+  "doc_number": "0224245",
+  "title": "METHOD FOR THE NON-DESTRUCTIVE ANALYSIS OF SURFACE LAYERS OF SAMPLES",
+  "abstract": "Die Erfindung betrifft ein Verfahren zur zerst\u00f6rungsfreien Analyse der Oberfl\u00e4chenschicht von Proben auf ihre Element\u00adzusammensetzung, bei der die Oberfl\u00e4che mittels R\u00f6ntgen\u00adstrahlung beaufschlagt und mit einem \u00fcber der Probe be\u00adfestigten Detektor spektrometrisch die von der Probe aus\u00adgehende Strahlung untersucht wird. Die der Erfindung gestellte Aufgabe besteht darin, das Ver\u00adfahren der e. g. Art derart zu gestalten, da\u00df die Elementzu\u00adsammensetzung der ebenen Oberfl\u00e4chen von z. B. massiven Proben quantitativ und zerst\u00f6rungsfrei erfa\u00dft werden kann. Die L\u00f6sung ist dadurch gekennzeichnet, da\u00df die die Elemente der Oberfl\u00e4che anregende R\u00f6ntgenstrahlung streifend unter einem Winkel kleiner als der Grenzwinkel der Totalreflexion auf die Oberfl\u00e4che auftrifft und da\u00df die von den Elementen ausgesandte R\u00f6ntgenfluoreszenzstrahlung vom Detektor erfa\u00dft wird.  ",
+  "ipcr_codes": [
+    "G01N23/207",
+    "G01N23/223"
+  ],
+  "cpc_codes": [
+    "G01N23/223",
+    "G01N23/223",
+    "G01N2223/076"
+  ],
+  "cited_patents": [
+    "4169228",
+    "2736960",
+    "2358653"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

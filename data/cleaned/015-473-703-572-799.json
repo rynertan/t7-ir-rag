@@ -1,0 +1,29 @@
+{
+  "lens_id": "015-473-703-572-799",
+  "doc_number": "103454683",
+  "title": "Seismic surveying techniques with illumination areas",
+  "abstract": "Techniques are disclosed relating to determining or executing a survey pattern for a marine seismic survey vessel. The survey pattern may be determined based on a determined subsurface illumination area. The subsurface illumination area may be identifiable (610) from primary reflections and higher-order reflections detected by sensors disposed in a sensor streamer configuration that may be towed behind the survey vessel. The sensor streamer configuration may include a plurality of streamers.",
+  "ipcr_codes": [
+    "G01V1/38",
+    "G01C21/00"
+  ],
+  "cpc_codes": [
+    "G01V1/282",
+    "G01V2210/67",
+    "G01V1/3808",
+    "G01V2210/67",
+    "G01V1/282",
+    "G01V1/3808"
+  ],
+  "cited_patents": [
+    "0297852",
+    "2005060097",
+    "1664617",
+    "2008089174",
+    "101285893",
+    "2010142317",
+    "2011158044"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

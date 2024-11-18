@@ -1,0 +1,21 @@
+{
+  "lens_id": "014-862-663-360-099",
+  "doc_number": "102010009263",
+  "title": "Verfahren zur Daten\u00fcbertragung zu einem elektronischen Steuerger\u00e4t",
+  "abstract": "Das Verfahren zur Daten\u00fcbertragung von einem Progrmprimiert die zu \u00fcbertragenden Daten mit zwei verschiedenen Huffman-Codierb\u00e4umen, vorzugsweise mit einem 16-Bit und einem 8-Bit Codierbaum. Die mit unterschiedlichen Codierb\u00e4umen codierten Datenworte werden durch ein Kennungsbit voneinander unterschieden.",
+  "ipcr_codes": [
+    "H03M7/30"
+  ],
+  "cpc_codes": [
+    "H03M7/40",
+    "H03M7/40",
+    "H04L69/04"
+  ],
+  "cited_patents": [
+    "3943881",
+    "69916661",
+    "2007016406"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

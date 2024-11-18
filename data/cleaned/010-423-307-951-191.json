@@ -1,0 +1,45 @@
+{
+  "lens_id": "010-423-307-951-191",
+  "doc_number": "2010091077",
+  "title": "METHOD AND SYSTEM FOR A MULTI-MICROPHONE NOISE REDUCTION",
+  "abstract": "A method for a multi microphone noise reduction in a complex noisy environment is proposed. A left and a right noise power spectral density for a left and a right noise input frame is estimated for computing a diffuse noise gain. A target speech power spectral density is extracted from the noise input frame. A directional noise gain is calculated from the target speech power spectral density and the noise power spectral density. The noisy input frame is filtered by Kalman filtering method. A Kalman based gain is generated from the Kalman filtered noisy frame and the noise power spectral density. A spectral enhancement gain is computed by combining the diffuse noise gain, the directional noise gain, and the Kalman based gain. The method reduces different combinations of diverse background noise and increases speech intelligibility, while guaranteeing to preserve the interaural cues of the target speech and directional background noises.",
+  "ipcr_codes": [
+    "G10L21/02",
+    "H04R25/00"
+  ],
+  "cpc_codes": [
+    "G10L21/0208",
+    "G10L21/0208",
+    "G10L2021/02166",
+    "G10L2021/02166",
+    "H04R1/1083",
+    "H04R1/1083",
+    "H04R25/43",
+    "H04R25/43",
+    "H04R2225/43",
+    "H04R2225/43",
+    "H04R2410/01",
+    "H04R2410/01",
+    "H04R2460/01",
+    "H04R2460/01"
+  ],
+  "first_claim": "What is claimed is:",
+  "all_claims": [
+    "What is claimed is:",
+    "1. A method for a multi microphone noise reduction in a complex noisy environment, comprising: estimating a left and a right noise power spectral density for a left and a right noise input frame by a power spectral density estimator; computing a diffuse noise gain from the estimated power spectral density; extracting a target speech power spectral density from the noise input frame by a target speech power spectral density estimator; generating a directional noise gain from the target speech power spectral density and the noise power spectral density; calculating a pre-enhanced side frame from the diffuse noise gain and the directional noise gain; calculating auto regressive coefficients from the side frame for a Kalman filtering method; filtering the noisy input frame by the Kalman filtering method; generating a Kalman based gain from the Kalman filtered noisy frame and the noise power spectral density; and generating a spectral enhancement gain by combining the diffuse noise gain, the directional noise gain, and the Kalman based gain.",
+    "2. The method as claimed in claim 1 , wherein the diffuse noise gain, the directional noise gain, and the Kalman based gain are combined with a weighting rule.",
+    "3. The method as claimed in claim 1 , wherein the diffuse noise gain and the directional noise gain are combined and applied to a Fourier transform of the noisy input frame.",
+    "4. The method as claimed in claim 3, wherein the pre-enhanccd side frame is calculated by transforming the Fourier transform of the noisy input frame back into the time- domain. 5 The method as claimed in claim 1, wherein a Wiener filter is applied to perform a piediction of the left noisy input frame from the right noisy input frame",
+    "6 The method as claimed in claim 5, wherein a quadratic equation is formed by combing an auto-power spectral density of a difference between the prediction and the left noisy input frame with auto-power spectral densities of the left and the right noisy input frames",
+    "7 The method as claimed in claim 6, wherein the noise power spectral density is estimated by the quadratic equation",
+    "8 The method as claimed in claim 5, wherein an equation is formed by combining an auto-power spectral density of a difference between the prediction and the left noisy input frame, auto-power spectral densities of the left and the right noisy input frames, and cross-power spectral density between the left and right noisy input frames",
+    "9 The method as claimed m claim 8, wherein the target speech power spectral density is estimated by the equation",
+    "10 The method as claimed in claim 1 , wherein the complex noisy environment comprises time varying diffuse noise, multiple directional non-stationary noises and reverberant conditions",
+    "1 1 The method as claimed in claim 1 , wherein the method is used for the multi microphone noise reduction in a hearing aid",
+    "12 A hearing aid, comprising a power spectral density estimator for estimating a left and a right noise power spectral density for a left and a right noise input frame; a target speech power spectral density estimator for extracting a target speech power spectral density from the noise input frame, and a processing device for computing a diffuse noise gam from the estimated power spectral density, generating a directional noise gain from the target speech power spectral density and the noise power spectral density, calculating a pre-enhanced side frame from the diffuse noise gain and the directional noise gain, calculating auto regressive coefficients from the side frame for a Kalman filtering method, filtering the noisy input frame by the Kalman filtering method, generating a Kalman based gain from the Kalman filtered noisy frame and the noise power spectral density, and generating a spectral enhancement gain by combining the diffuse noise gain, the directional noise gain, and the Kalman based gain.",
+    "13. The hearing aid as claimed in claim 12, wherein the hearing aid is used in a complex noisy environment comprising time varying diffuse noise, multiple directional non- stationary noises and reverberant conditions."
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": "Description Method and system for a multi-microphone noise reduction The present invention relates to a method and system for a multi-microphone noise reduction in a complex noisy environment . The three papers \"Advanced Binaural Noise Reduction Scheme For Binaural Hearing Aids Operating In Complex Noisy Environments\", \"Advanced Binaural Noise Reduction Scheme For Binaural Hearing Aids Operating In Complex Noisy Environments\" and \"Instantaneous Target Speech Power Spectrum Estimation for Binaural Hearing Aids and Reduction of Directional Non-Stationary Noise with Preservation of Interaural Cues\" describe the invention and are part of the application . The papers describe a preferred embodiment of multi- microphone noise reduction in hearing aids. However, the present application is not limited to hearing aids. The described methods and systems can rather be utilized in connection with other audio devices like headsets, headphones, wireless microphones, etc. \ue10a \ue10a \ue120 \ue10a \ue10a \ue10a \ue10a \ue10a \ue10a \ue10a \ue10a \ue10a"
+}

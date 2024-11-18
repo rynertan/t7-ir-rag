@@ -1,0 +1,29 @@
+{
+  "lens_id": "008-031-532-608-969",
+  "doc_number": "2017311109",
+  "title": "Microchip electrophoresis inkjet dispensing",
+  "abstract": "Devices and methods are provided for the separation and dispensing of material using a microfluidic electrophoresis column, sheath liquid pump, and exit channel, all on the same monolithic chip. Material is separated in the electrophoresis column and passed into the exit chamber in response to a voltage potential between a first electrode within the electrophoresis column and a terminating electrode integrated into the chip. The terminating electrode can be in the sheath liquid pump chamber, the sheath liquid reservoir, or a separate flow channel that intersects the exit channel along with the electrophoresis column and sheath liquid pump chamber. The flow of sheath liquid into the exit chamber entrains separated analytes into an effluent that is dispensed out of the exit chamber via a discharge outlet.",
+  "ipcr_codes": [
+    "G01N27/447"
+  ],
+  "cpc_codes": [
+    "G01N27/44782",
+    "G01N27/44739",
+    "G01N27/44791",
+    "G01N27/44782",
+    "B01L3/50273",
+    "B01L2300/0681",
+    "B01L2300/0829",
+    "B01L2400/0421",
+    "B01L2400/0478",
+    "G01N27/44721",
+    "G01N27/44739",
+    "G01N27/44773",
+    "G01N27/44791"
+  ],
+  "cited_patents": [
+    "2016011149"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

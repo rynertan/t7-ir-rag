@@ -1,0 +1,18 @@
+{
+  "lens_id": "015-005-861-911-381",
+  "doc_number": "108196326",
+  "title": "Wideband wave absorber based on black phosphorus and super surface",
+  "abstract": "The invention relates to a wideband wave absorber based on black phosphorus and a super surface, which comprises a metal bottom plate and a dielectric substrate arranged at the upper layer of the metal bottom plate, wherein at least three layers of strip-shaped black phosphorus layers which are vertically distributed at intervals are arranged above the dielectric substrate; the strip-shaped blackphosphorus layer in the bottom layer is arranged on the upper surface of the dielectric substrate; widths of the strip-shaped black phosphorus layer are reduced gradually from bottom to top; and dielectric plates with the same thickness for separating the strip-shaped black phosphorus layers are arranged among the strip-shaped black phosphorus layers. The characteristic that corresponding drift happens to the resonant peak position of the wave absorber when the width of the strip-shaped black phosphorus layer is changed is used, through arranging the strip-shaped black phosphorus layers with different widths, the problem of an over narrow bandwidth of an existing perfect wave absorber based on a black phosphorus material is solved, the working bandwidth of the wave absorber is expanded, and characteristics of broadband absorption, dynamic regulation and perfect wave absorption in wave absorption work can be realized.",
+  "ipcr_codes": [
+    "G02B5/00"
+  ],
+  "cpc_codes": [
+    "G02B5/003"
+  ],
+  "cited_patents": [
+    "107221752",
+    "207098023"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,30 @@
+{
+  "lens_id": "012-669-727-500-584",
+  "doc_number": "108341425",
+  "title": "Preparation method and application of tin oxide/nano ZSM-5 composite material",
+  "abstract": "The invention relates to the technical field of a gas-sensing material, in particular to a preparation method and application of a tin oxide/nano ZSM-5 composite material. Nano-sized ZSM-5 type zeolite is synthesized by using a hydrothermal method, and the prepared zeolite is compounded with SnO2 by using a dipping method, so that SnO2 particles with a particle size of 10 nm are formed on the surface of the zeolite through a principle of spontaneous monolayer dispersion, and the obtained material is adopted as a gas-sensing material for manufacturing a gas sensor; a side-heating gas sensor canbe manufactured by coating exterior of the composite material with another layer of nano ZSM-5 material, and it is found after tests that the response value of the sensor to formaldehyde is improvedgreatly, and a good effect of inhibition on acetone can be achieved.",
+  "ipcr_codes": [
+    "C01G19/02",
+    "B82Y30/00",
+    "C01B39/40",
+    "G01N27/00"
+  ],
+  "cpc_codes": [
+    "B82Y30/00",
+    "C01G19/02",
+    "C01B39/40",
+    "C01P2002/01",
+    "C01P2004/04",
+    "C01P2004/64",
+    "C01P2004/80",
+    "G01N27/00"
+  ],
+  "cited_patents": [
+    "1470458",
+    "104056657",
+    "104701496",
+    "106391108"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,33 @@
+{
+  "lens_id": "014-267-918-675-425",
+  "doc_number": "113019384",
+  "title": "Nano-porous Cu/CeO2 composite photocatalytic material and preparation method thereof",
+  "abstract": "The invention discloses a nano-porous Cu/CeO2 composite photocatalytic material and a preparation method thereof, and belongs to the technical field of nano-porous composite materials and photocatalysis. The preparation method comprises the following steps: (1) preparing a solution: adding 1.73 to 2.61 g of Ce(NO3)3.6H2O, 1.62 to 2.43 g of C4H6O6 and 0 to 1.31 g of Cu(NO3)2.3H2O into 10 ml of deionized water, and mixing to form a uniform and clear solution; and (2) transferring the solution prepared in the step (1) to a heatable magnetic stirrer, setting the rotating speed to be 300-500 revolutions and the temperature to be 80-120 DEG C, and evaporating excessive water to obtain a gel precursor; transferring the precursor into a quartz boat, putting the quartz boat into a tubular furnace, vacuumizing, introducing argon, heating, and carrying out the whole reaction in an argon atmosphere; and after the reaction is finished, cooling to room temperature along with the furnace to obtain the Cu/CeO2 composite photocatalytic material. The nano-porous Cu/CeO2 composite photocatalytic material and the preparation method thereof have the advantages that the process method is simple, the reaction time is short, the material with high specific surface area, high photocatalytic activity and the micromorphology of nano-porous lamellar is obtained in one step, the pore size, the pore volume and the lamellar thickness are controlled, and the material is applied to the fields of photocatalysis and water pollution treatment.",
+  "ipcr_codes": [
+    "B01J23/83",
+    "B01J35/02",
+    "B01J35/10",
+    "C02F1/30",
+    "C02F101/38"
+  ],
+  "cpc_codes": [
+    "B01J35/004",
+    "B01J23/83",
+    "B01J35/1061",
+    "B01J35/1047",
+    "B01J35/023",
+    "B01J35/1014",
+    "C02F1/30",
+    "C02F2101/40",
+    "C02F2305/10"
+  ],
+  "cited_patents": [
+    "20120139107",
+    "104492447",
+    "108479842",
+    "108786812",
+    "108883389"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

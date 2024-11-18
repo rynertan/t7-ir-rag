@@ -1,0 +1,39 @@
+{
+  "lens_id": "014-265-926-686-125",
+  "doc_number": "110647161",
+  "title": "Under-actuated UUV horizontal plane trajectory tracking control method based on state prediction compensation",
+  "abstract": "The invention provides an under-actuated UUV horizontal plane trajectory tracking control method based on state prediction compensation. The under-actuated UUV horizontal plane trajectory tracking control method comprises the steps of: step 1, acquiring position and attitude information according to a current task by means of a UUV; step 2, acquiring position and attitude error variables under motion coordinates by utilizing a mathematical model of the under-actuated UUV; 3, calculating a virtual control law by stabilizing the position and attitude error variables; step 4, constructing a position and attitude state predictor according to a kinematics model of the UUV, and constructing a speed state predictor according to a dynamics model of the UUV; step 5, and constructing an actual trajectory tracking control law of the UUV according to predicted state information. Under the condition that time delay exists in an under-actuated UUV executing mechanism, the UUV under the action of a UUV trajectory tracking controller designed through adopting the method can realize precise tracking of the plane trajectory, and the designed controller better meets the actual engineering requirements.",
+  "ipcr_codes": [
+    "G05D1/08",
+    "G05D1/10",
+    "G05D13/62"
+  ],
+  "cpc_codes": [
+    "G05D1/0875",
+    "G05D1/10",
+    "G05D13/62"
+  ],
+  "cited_patents": [
+    "0661188",
+    "20130097417",
+    "105573327",
+    "2016111594",
+    "105929842",
+    "106444796",
+    "2018088594",
+    "2018311817",
+    "108803632",
+    "108829132",
+    "108897217",
+    "2019113920",
+    "110308735",
+    "H07187072",
+    "2011144836",
+    "106444806",
+    "3379367",
+    "109189103",
+    "109828467"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,27 @@
+{
+  "lens_id": "008-261-399-524-507",
+  "doc_number": "2008126002",
+  "title": "COMPOUND PROFILING METHOD",
+  "abstract": "The present invention provides a method for deriving an upstream or downstream component of a component necessary for phenotypic alteration of a living organism, the method comprising the steps of: specifying a pathway of interest related to the phenotypic alteration and a reference pathway different from the pathway of interest, and specifying a stimulant of interest and a reference stimulant which respectively stimulate the pathway of interest and the reference pathway; giving the stimulant of interest to the living organism to identify a collection of components of interest necessary for the phenotypic alteration; giving the reference stimulant to the living organism to identify a collection of reference components necessary for the phenotypic alteration; calculating an intersection between the collections of the components of interest and the reference components; and calculating a differential collection by subtracting the intersection from the collection of components of interest.",
+  "ipcr_codes": [
+    "G01N33/50",
+    "G16B5/00"
+  ],
+  "cpc_codes": [
+    "C12Q1/6886",
+    "C12Q2600/178",
+    "G01N33/5011",
+    "G01N33/5026",
+    "G16B5/00",
+    "A61P35/00",
+    "A61P43/00",
+    "G01N33/5026",
+    "C12Q1/6886",
+    "C12Q2600/178",
+    "G01N33/5011",
+    "G16B5/00"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,17 @@
+{
+  "lens_id": "012-069-391-165-997",
+  "doc_number": "103940645",
+  "title": "Pretreatment method used for measuring water body nitrogen and oxygen isotopes via chemical conversion",
+  "abstract": "The invention discloses a pretreatment method used for measuring water body nitrogen and oxygen isotopes via chemical conversion. The pretreatment method comprises following steps: (1) water samples to be measured are delivered into a reduction column filled with copper plated cadmium granules, and then an eluant is delivered into the reduction column for elution; (2) a nitrite nitrogen solution is injected into a headspace bottle, the headspace bottle is vacuumized, high-pure helium is injected, an acetic acid-sodium azide mixed solution is injected for reaction, and at last, a sodium hydroxide solution is added so as to stop reaction. According to the pretreatment method, pretreatment time is shortened to 25min, and no azoimide leakage is caused in pretreatment processes, so that safety and utilizability of the pretreatment method are increased further. Standard curve fitting coefficients of the pretreatment method are all higher than 0.999, and nitrogen and oxygen isotope repeated experiment result error of a same sample is lower than 0.0002.",
+  "ipcr_codes": [
+    "G01N1/28"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "H0347518",
+    "102732466",
+    "102887492"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

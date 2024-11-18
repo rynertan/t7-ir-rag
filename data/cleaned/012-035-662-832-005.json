@@ -1,0 +1,26 @@
+{
+  "lens_id": "012-035-662-832-005",
+  "doc_number": "108949742",
+  "title": "Ultrasonic crushing method for pig adipose tissue and application of ultrasonic crushing method",
+  "abstract": "The invention belongs to the field of co-immunoprecipitation chromatin of chromatins and particularly relates to an ultrasonic crushing method for a pig adipose tissue and application of the ultrasonic crushing method. The method comprises the following steps: (1) carrying out ice formaldehyde cross-linking reaction on the pig adipose tissue; (2) stopping cross-linking reaction through glycine, and then carrying out centrifugation and ice-bath layering; (3) acquiring a cell deposition layer of the pig adipose tissue; (4) extracting a cell nucleus deposition layer; and (5) ultrasonically breaking chromatins, so as to obtain small fragments of a protein-nucleic acid compound. The ultrasonic crushing method has the beneficial effects that a low-temperature condition is maintained in the wholeexperiment operation, so that a natural structure of a protein is guaranteed to a great extent, and the DNA-protein compound adsorbed with a real antibody is obtained; the obtained small fragments ofthe protein-nucleic acid compound can be directly applied to subsequent ChIP, the concentration of obtained DNA is determined, and the combination condition between DNA and a target protein in a whole genome range is detected by virtue of high-flux sequencing; and DNA obtained through enrichment is used for establishing a bank, is subjected to second-generation sequencing and is applied to the bioinformatics analysis of DNA of the pig adipose tissue.",
+  "ipcr_codes": [
+    "C12N13/00",
+    "C07K1/14",
+    "C12N1/06",
+    "C12N15/10",
+    "C12Q1/6806"
+  ],
+  "cpc_codes": [
+    "C12N1/06",
+    "C12N13/00",
+    "C12N15/1013",
+    "C12Q1/6806",
+    "C07K1/14"
+  ],
+  "cited_patents": [
+    "940011",
+    "107254512"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

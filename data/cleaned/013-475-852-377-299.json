@@ -1,0 +1,20 @@
+{
+  "lens_id": "013-475-852-377-299",
+  "doc_number": "2796736",
+  "title": "PROCEDE POUR EFFECTUER UNE MULTIPLICATION AVEC ACCUMULATION DANS UN CORPS DE GALOIS",
+  "abstract": "<P>L'invention concerne un proc\u00e9d\u00e9 qui permet de r\u00e9aliser une op\u00e9ration de multiplication avec accumulation dans le corps de Galois entre nombres cod\u00e9s sur 2 n bits en proposant un encha\u00eenement astucieux d'op\u00e9rations, et notamment deux multiplications entre un nombre cod\u00e9 sur 2 n bits et un nombre cod\u00e9 sur n bits, ce qui permet d'avoir des circuits multiplicateurs moins encombrants.</P>",
+  "ipcr_codes": [
+    "G06F7/72"
+  ],
+  "cpc_codes": [
+    "G06F7/724"
+  ],
+  "cited_patents": [
+    "0265336",
+    "5623683",
+    "2713794",
+    "4251875"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

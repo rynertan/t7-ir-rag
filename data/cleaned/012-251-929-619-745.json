@@ -1,0 +1,38 @@
+{
+  "lens_id": "012-251-929-619-745",
+  "doc_number": "0422854",
+  "title": "OPTICAL AMPLIFIER-PHOTODETECTOR DEVICE",
+  "abstract": "The device here disclosed comprises an optical amplifier (12) coupled to direct optical energy into a passive wavegulde (16,14,21) for transmission through the waveguide to its other end. A photodetector (8) positioned relative to the passive waveguide, detects the presence of optical energy in the passive waveguide. The photodetector in the structure illustrated is positioned downstream from the optical amplifier and spatially positioned with respect to the optical amplifier to receive optical energy only from the waveguide. The photodetector does not receive optical energy directly from the optical amplifier. A small fraction of the optical energy carried by the passive waveguide is received and detected by the photodetector.  ",
+  "ipcr_codes": [
+    "G01J1/02",
+    "G02B5/18",
+    "G02B6/12",
+    "G02B6/30",
+    "G02B6/34",
+    "G02B6/42",
+    "G02F1/35",
+    "H01L31/10",
+    "H01L33/00",
+    "H01S5/00",
+    "H01S5/026",
+    "H01S5/50"
+  ],
+  "cpc_codes": [
+    "G02B6/12004",
+    "G02B6/12004",
+    "G02B6/34",
+    "G02B6/34",
+    "G02B6/42",
+    "G02B6/42",
+    "H01S5/50",
+    "H01S5/50",
+    "H01S5/0264",
+    "H01S5/0264"
+  ],
+  "cited_patents": [
+    "2197122",
+    "4136928"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

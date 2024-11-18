@@ -1,0 +1,36 @@
+{
+  "lens_id": "009-817-545-884-445",
+  "doc_number": "111944129",
+  "title": "High-performance sodium battery negative electrode organic polymer material",
+  "abstract": "The invention discloses an organic polymer PTSA and a preparation method thereof. The preparation method includes the steps that TSA prepared from 2-cyanothiophene is dissolved in a mixed solution ofnitromethane and dichloromethane, and then the polymer PTSA is synthesized under catalysis of ferric chloride; the polymer PTSA is easy to synthesize, stable in performance and good in stability and conductivity. The invention also discloses an organic composite material electrode prepared from the polymer PTSA, conductive carbon black and polyvinylidene fluoride PVDF, the organic polymer materialis used as a sodium battery negative electrode material and is circulated for 120 circles under 0.1 A/g current charging and discharging, and the capacity is 705 mAh/g; under the condition of 2 A/g high-current charging and discharging, the capacity is 618 mAh/g after circulation for 150 circles, and the material is one of materials with better performance in the current research of the sodium battery negative electrode material, and brings more possibility to the industrial application of the sodium ion battery.",
+  "ipcr_codes": [
+    "C08G61/12",
+    "H01M4/137",
+    "H01M4/1399",
+    "H01M4/60",
+    "H01M10/054"
+  ],
+  "cpc_codes": [
+    "C08G61/126",
+    "H01M4/608",
+    "H01M4/137",
+    "H01M4/1399",
+    "H01M10/054",
+    "H01M2004/027",
+    "C08G2261/11",
+    "C08G2261/3223",
+    "C08G2261/3221",
+    "C08G2261/43",
+    "Y02E60/10"
+  ],
+  "cited_patents": [
+    "101717396",
+    "108976415",
+    "20190106260",
+    "111454226",
+    "106268690",
+    "2019107424"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

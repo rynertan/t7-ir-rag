@@ -1,0 +1,30 @@
+{
+  "lens_id": "015-246-848-556-44X",
+  "doc_number": "102013210449",
+  "title": "Verfahren zum gleichzeitigen Darstellen einer Graphik einer handschriftlichen Zeichenfolge und einer Maschineninterpretation der Zeichenfolge, Computerprogramm zu Implementierung des Verfahrens und Computersystem mit einem solchen Computerprogramm",
+  "abstract": "Die Erfindung ist ein Verfahren zum gleichzeitigen Darstellen einer Graphik (30) einer handschriftlichen Zeichenfolge und einer Maschineninterpretation (32) der Graphik (30) mittels eines Anzeigeger\u00e4ts (48) eines Computersystems (40), wobei die Anzeige der Maschineninterpretation (32) \u00fcber oder unter der Anzeige der Graphik (30) der handschriftlichen Zeichenfolge erfolgt, wobei die Maschineninterpretation (32) mittels des Computersystems (40) editierbar ist und beim Editieren an einer jeweiligen Eingabeposition ein Textcursor (54) dargestellt wird und wobei in der Graphik (30) der handschriftlichen Zeichenfolge an einer mit der Eingabeposition korrespondierenden Stelle ein Graphikcursor (56) angezeigt wird, sowie ein Computerprogramm (46) zur Implementierung des Verfahrens und schlie\u00dflich auch ein Computersystem (40), das als Mittel zur Durchf\u00fchrung des Verfahrens ein in einen Speicher (44) des Computersystems (40) geladenes derartiges Computerprogramm (46) umfasst.",
+  "ipcr_codes": [
+    "G06T1/00",
+    "G06F3/00",
+    "G06F17/24",
+    "G06V30/10",
+    "G06V30/262"
+  ],
+  "cpc_codes": [
+    "G06V30/387",
+    "G06V30/10",
+    "G06V30/262",
+    "G06V30/127",
+    "G06V30/387",
+    "G06V30/127",
+    "G06V30/10",
+    "G06V30/262"
+  ],
+  "cited_patents": [
+    "19542842",
+    "2012101947",
+    "5737740"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

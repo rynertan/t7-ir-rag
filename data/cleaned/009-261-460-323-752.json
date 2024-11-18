@@ -1,0 +1,24 @@
+{
+  "lens_id": "009-261-460-323-752",
+  "doc_number": "103165903",
+  "title": "Anti-carbon-deposition, high-performance and functionally-graded anode composite film of solid oxide fuel cells and preparation method thereof",
+  "abstract": "The invention discloses a functionally-graded anode composite film of solid oxide fuel cells (SOFC) and a preparation method thereof. Three currently known anode materials, Cu-LSCM-CeO2 with excellent catalytic performance, Ni-YSZ with excellent toughness and mechanical strength property and Ni-ScSZ with superior electrochemically activity, are combined, so that a plurality of requirements on the anode can by undertaken by different functional layers, each layer is enabled to cooperate with each other, and an effect of complementary advantages can be achieved through synergy, thereby eliminating carbon deposition phenomena of methane and other hydrocarbon fuels on the anodes of the SOFC, and improving stability of the anodes in the methane and other hydrocarbon fuels and catalytic activities of the anodes for electrochemical reactions. Especially, the method is suitable for preparing large-size, high-performance and functionally-graded anode composite film of the solid oxide fuel cells through industrial production, is simple in technology, short in preparation period, low in cost, and suitable for industrial applications.",
+  "ipcr_codes": [
+    "H01M4/86",
+    "H01M4/88"
+  ],
+  "cpc_codes": [
+    "Y02E60/50"
+  ],
+  "cited_patents": [
+    "101009387",
+    "H1140167",
+    "20100079998",
+    "102013501",
+    "101162779",
+    "101226999",
+    "101562255"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

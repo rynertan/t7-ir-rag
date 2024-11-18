@@ -1,0 +1,21 @@
+{
+  "lens_id": "013-266-040-072-78X",
+  "doc_number": "105184406",
+  "title": "Green data center standby power system optimization design method",
+  "abstract": "The invention discloses a green data center standby power system optimization design method, which comprises the steps of: establishing a data center load model, a generalized energy storage system model and a mobile power-generating vehicle model; determining user UPS and mobile power-generating vehicle information of an electric power company; determining magnitude of compulsory protecting load within different time periods after power outage; determining an energy supply strategy of an emergency energy system; and determining capacity and components of the emergency energy system based on the data center load model, the generalized energy storage system model and the mobile power-generating vehicle model, and finally establishing a standby power system capacity optimization model based on a generalized energy storage system and the mobile power-generating vehicle. The data center standby power system capacity optimization design method is based on cooperation of the generalized energy storage system and the mobile power-generating vehicle, can greatly reduce expensive electric energy storage system capacity in a self-provided energy system through configuring a cold energy storage system on the premise of satisfying highly reliable energy supply and green and environment protection requirements of the data center, saves investment and operation cost, and reduces whole life cycle cost.",
+  "ipcr_codes": [
+    "G06Q10/04",
+    "G06Q10/06",
+    "G06Q50/06"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "103475013",
+    "2014148963",
+    "104134829",
+    "104538983",
+    "104881723"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

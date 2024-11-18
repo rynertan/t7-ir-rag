@@ -1,0 +1,17 @@
+{
+  "lens_id": "013-257-598-792-001",
+  "doc_number": "2796161",
+  "title": "MATRICE DE DETECTEURS DE PHOTONS",
+  "abstract": "<P>Le r\u00e9seau de d\u00e9tecteurs comprend deux couches (9, 10) de d\u00e9tecteurs (11, 15) superpos\u00e9s, affect\u00e9s respectivement \u00e0 la captation et \u00e0 la conversion de photons de deux \u00e9nergies diff\u00e9rentes, ce qui permet d'utiliser le r\u00e9seau (8) pour des proc\u00e9d\u00e9s diff\u00e9rents, tels que les proc\u00e9d\u00e9s PET et SPECT en tomographie d'imagerie m\u00e9dicale.</P>",
+  "ipcr_codes": [
+    "G01T1/164",
+    "G01T1/29"
+  ],
+  "cpc_codes": [
+    "G01T1/2985",
+    "G01T1/1642"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

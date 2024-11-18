@@ -1,0 +1,31 @@
+{
+  "lens_id": "013-216-129-603-326",
+  "doc_number": "107771392",
+  "title": "Real-time content-adaptive perceptual quantizer for high dynamic range images",
+  "abstract": "Noise levels in pre-reshaped codewords of a pre-reshaped bit depth in pre-reshaped images within a time window of a scene are calculated. Per-bin minimal bit depth values are computed for pre-reshapedcodeword bins based on the calculated noise levels in the pre-reshaped codewords. Each per-bin minimal bit depth value corresponds to a minimal bit depth value for a respective pre-reshaped codewordbin. A specific codeword mapping function for a specific pre-reshaped image in the pre-reshaped image is generated based on the pre-reshaped bit depth, the per-bin minimal bit depth values, and a target bit depth smaller than the pre-reshaped bit depth. The specific codeword mapping function is applied to specific pre-reshaped codewords of the specific pre-reshaped image to generate specific target codewords of the target bit depth for a specific output image.",
+  "ipcr_codes": [
+    "H04N19/136",
+    "H04N19/98"
+  ],
+  "cpc_codes": [
+    "H04N19/136",
+    "H04N19/98",
+    "H04N19/136",
+    "H04N19/98",
+    "H04N19/136",
+    "H04N19/98",
+    "H04N19/124",
+    "H04N19/186"
+  ],
+  "cited_patents": [
+    "102341825",
+    "2013086169",
+    "103843058",
+    "2014160705",
+    "2014204865",
+    "2013241931",
+    "104322072"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

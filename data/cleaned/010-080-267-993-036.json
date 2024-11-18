@@ -1,0 +1,28 @@
+{
+  "lens_id": "010-080-267-993-036",
+  "doc_number": "111477891",
+  "title": "Preparation method of low-platinum-loading nitrogen-doped porous hollow carbon sphere compound as well as product and application thereof",
+  "abstract": "The invention discloses a preparation method of a low-platinum-loading nitrogen-doped porous hollow carbon sphere compound. The preparation method comprises: firstly, preparing a non-noble metal catalyst with good electrical activity on ORR, then depositing a small amount of platinum nanoparticles on the ORR catalyst through a simple solution impregnation method, and finally, stabilizing the platinum nanoparticles and forming a large number of active sites through graphene coating treatment and heat treatment, so that the ORR catalyst with high stability, low platinum loading capacity and highactivity is formed. In order to achieve the purpose, urea is used as a pore-forming agent, and a large number of micropores are generated in the hollow carbon spheres, so that deposition of platinumnanoparticles is facilitated, and the platinum nanoparticles, cobalt, nitrogen and the like form a large number of active sites; and as the cobalt-loaded porous nitrogen-doped hollow carbon spheres have good ORR activity, even if a small amount of platinum nanoparticles exist, the final catalyst has almost the same electrocatalytic activity as commercial platinum carbon. The novel electrocatalysthas a wide application prospect in the fields of fuel cells, metal-air batteries and the like.",
+  "ipcr_codes": [
+    "H01M4/92",
+    "H01M4/88"
+  ],
+  "cpc_codes": [
+    "H01M4/926",
+    "H01M4/8878",
+    "H01M4/8882",
+    "Y02E60/50"
+  ],
+  "cited_patents": [
+    "110391424",
+    "I243507",
+    "2011082024",
+    "2017141405",
+    "107994235",
+    "108736031",
+    "109778224",
+    "110639593"
+  ],
+  "citing_patents": [],
+  "description": ""
+}
