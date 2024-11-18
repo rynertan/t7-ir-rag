@@ -1,0 +1,19 @@
+{
+  "lens_id": "011-220-300-329-304",
+  "doc_number": "103317033",
+  "title": "Forming method capable of customizing strength of ultrahigh-strength steel hot-stamped parts",
+  "abstract": "The invention provides a forming method capable of customizing strength of ultrahigh-strength steel hot-stamped parts. The total electric energy input to steel plates by resistance heating is constant, different cross-sectional area portions are different in input energy in unit cross-sectional area, and heating temperatures are different, so that different strength is obtained. When the input energy in unit cross-sectional area is 825jmm<-2>, steel plates can be heated to a complete austenitizing temperature within 3s, and tensile strength of the steel plates after hot forming reaches above 1600MPa; when the input energy in unit cross-sectional area is lower than 688jmm<-2>, the heating temperature of the steel plates can be lower than the austenitizing temperature, and the tensile strength of the steel plates after hot forming is 600-700MPa. The cross-sectional areas and the sizes of the steel plates are designed according to strength requirements of different portions of components, hot-formed structural parts obtained after hot stamping have optimal strength and plasticity matching, overall weight of original parts is reduced, side-impact deformation resistance of automobiles is improved, and collision energy can be absorbed well.",
+  "ipcr_codes": [
+    "B21D37/16",
+    "B21D22/02"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "2011303330",
+    "2006034193",
+    "103028645",
+    "2009152256"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

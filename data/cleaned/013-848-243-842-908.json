@@ -1,0 +1,25 @@
+{
+  "lens_id": "013-848-243-842-908",
+  "doc_number": "102011051074",
+  "title": "Steuern der Verwendung von Energie",
+  "abstract": "Die vorliegende Erfindung betrifft unter anderem ein Verfahren das umfasst das Steuern der Verwendung von Energie, die von einem oder mehreren Energieerzeugern in einem Hausnetz bereitgestellt wird, zumindest in Abh\u00e4ngigkeit einer Prognose zuk\u00fcnftig von den Energieerzeugern in dem Hausnetz bereitgestellter Energie und/oder einer Prognose zuk\u00fcnftigen Energiebedarfs von einem oder mehreren Energieverbrauchern in dem Hausnetz. Des Weiteren betrifft die vorliegende Erfindung eine Vorrichtung und ein Computerprogramm.",
+  "ipcr_codes": [
+    "H02J3/00"
+  ],
+  "cpc_codes": [
+    "H02J3/14",
+    "H02J3/32",
+    "Y02B10/30",
+    "Y02B70/3225",
+    "Y04S20/222",
+    "H02J3/14",
+    "H02J3/32"
+  ],
+  "cited_patents": [
+    "19535752",
+    "19951216",
+    "2011092002"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

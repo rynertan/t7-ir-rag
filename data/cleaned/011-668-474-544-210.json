@@ -1,0 +1,24 @@
+{
+  "lens_id": "011-668-474-544-210",
+  "doc_number": "105489226",
+  "title": "Wiener filtering speech enhancement method for multi-taper spectrum estimation of pickup",
+  "abstract": "The invention provides a Wiener filtering speech enhancement method for multi-taper spectrum estimation of a pickup. The Wiener filtering speech enhancement method is characterized by including: performing multi-taper spectrum estimation on a noisy speech, and removing noise items through a wavelet threshold value to obtain speech spectra which are approximately pure; comparing the speech spectra with a speech spectrum processed through Wiener filtering, and selecting corresponding spectra as finally enhanced speech spectra according to different distortion types. When the method is applied in the pickup, compared with existing mean square forecast error and pre-whitening subspace methods, the method is smoother in speech and closer to pure speech; in circumstances with low signal-to-noise ratio and complex noise, the pickup is higher in speech processing speed, higher in coding and decoding efficiency, better in denoising performance and higher in robustness. In addition, in environments with long distance, the pickup has good speech recognition effect.",
+  "ipcr_codes": [
+    "G10L21/0232",
+    "G10L25/21",
+    "G10L25/45"
+  ],
+  "cpc_codes": [
+    "G10L21/0232",
+    "G10L15/20",
+    "G10L25/21",
+    "G10L25/45"
+  ],
+  "cited_patents": [
+    "100998532",
+    "203193889",
+    "104715758"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

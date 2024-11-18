@@ -1,0 +1,41 @@
+{
+  "lens_id": "015-220-596-981-574",
+  "doc_number": "523210",
+  "title": "Brennstoffzellensystem",
+  "abstract": "Die vorliegende Erfindung betrifft ein Brennstoffzellensystem (10), aufweisend wenigstens einen Brennstoffzellenstapel (11) mit einem Anodenabschnitt (12) und einem Kathodenabschnitt (13), einen Ejektor (14), eine Brennstoffgemischleitung (15) zum Leiten eines Brennstoffgemisches, das Prim\u00e4rbrennstoff und Sekund\u00e4rbrennstoff aufweist, vom Ejektor (14) zum Anodenabschnitt (12), eine Prim\u00e4rbrennstoffleitung (16) zum Zuf\u00fchren des Prim\u00e4rbrennstoffs zum Ejektor (14), und eine Rezirkulationsleitung (17) zum R\u00fcckf\u00fchren des Sekund\u00e4rbrennstoffs vom Anodenabschnitt (16) zum Ejektor (14), wobei sich die Prim\u00e4rbrennstoffleitung (16) f\u00fcr eine w\u00e4rme\u00fcbertragende Verbindung zwischen dem Sekund\u00e4rbrennstoff und dem Prim\u00e4rbrennstoff zumindest abschnittsweise durch ein W\u00e4rmetauschvolumen (18) innerhalb der Rezirkulationsleitung (17) erstreckt.",
+  "ipcr_codes": [
+    "H01M8/04007",
+    "F28D1/047",
+    "F28D7/10",
+    "F28D21/00",
+    "H01M8/04089",
+    "H01M8/124"
+  ],
+  "cpc_codes": [
+    "F28D1/0472",
+    "F28D1/0477",
+    "F28D7/10",
+    "F28D2021/0043",
+    "H01M8/04007",
+    "H01M8/04097",
+    "H01M2008/1293",
+    "H01M8/04074",
+    "H01M8/04097",
+    "H01M8/04014",
+    "F28D2021/0043",
+    "F28D7/024",
+    "F28D7/14",
+    "Y02E60/50",
+    "F28D7/1607",
+    "F28F2250/106",
+    "H01M8/04014",
+    "H01M8/04074",
+    "H01M8/04097",
+    "H01M2008/1293"
+  ],
+  "cited_patents": [
+    "2012105300"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

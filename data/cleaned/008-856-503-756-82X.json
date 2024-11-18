@@ -1,0 +1,39 @@
+{
+  "lens_id": "008-856-503-756-82X",
+  "doc_number": "1785899",
+  "title": "Verfahren zur Identifizierung diskreter Datenpopulationen (z.B. Cluster) in einem mehrdimensionalen Durchflusszytometer-Datensatz",
+  "abstract": "Systems and methods for identifying populations of events in a multi-dimensional data set, e.g., seven dimensional flow cytometry data of a blood sample. The populations may, for example, be sets or clusters of data representing different white blood cell components in the sample. The methods use a library consisting of one or more one finite mixture models, each model component comprising parameters representing multi-dimensional Gaussian probability density functions, one density for each population of events expected in the data set. The methods further use an expert knowledge set comprising one or more data transformations for operation on the multi-dimensional data set and one or more logical statements. The transformations and logical statements encode a priori expectations as to the relationships between different event populations in the data set. The methods further use program code comprising instructions by which a processing unit such as a computer may operate on the multi-dimensional data, a finite mixture model selected from the library, and the expert knowledge set to thereby identify populations of events in the multi-dimensional data set.",
+  "ipcr_codes": [
+    "G06F19/00"
+  ],
+  "cpc_codes": [
+    "G01N2015/008",
+    "G01N2015/1006",
+    "G01N2015/1402",
+    "G01N15/1459",
+    "G01N2015/1477",
+    "G16H50/70",
+    "G16H50/20",
+    "G06V20/698",
+    "G06F18/2321",
+    "G06F18/24765",
+    "G01N15/1459",
+    "G01N2015/1402",
+    "G01N2015/008",
+    "G01N2015/1477",
+    "G01N2015/1006",
+    "G16H50/70",
+    "G16H50/20",
+    "G06V20/698",
+    "G06F18/2321",
+    "G06F18/24765"
+  ],
+  "cited_patents": [
+    "2005008254",
+    "0185914",
+    "0553951",
+    "2005085842"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,25 @@
+{
+  "lens_id": "009-257-859-472-563",
+  "doc_number": "2016228958",
+  "title": "Augmented reality memorial",
+  "abstract": "Information systems, assemblies and funerary markers are described employing augmented reality for the commemoration of deceased individuals. Mobile devices are employed to decode digital tags that locate commemorative content, to map the position and geometry of a headstone, and to display the commemorative content in semantic context with the headstone. A spatial mapping module and augmented reality engine adapt the commemorative content for displaying the content in alignment with the position and geometry of the headstone.",
+  "ipcr_codes": [
+    "G06T19/00",
+    "G06K7/10"
+  ],
+  "cpc_codes": [
+    "G06T19/006",
+    "G06T19/006",
+    "E04H13/001",
+    "G06K7/10297",
+    "G06K7/1413",
+    "G06K7/1417"
+  ],
+  "cited_patents": [
+    "2011047893",
+    "2014285519",
+    "20120051139"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

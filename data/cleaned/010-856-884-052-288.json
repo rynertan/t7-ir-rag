@@ -1,0 +1,21 @@
+{
+  "lens_id": "010-856-884-052-288",
+  "doc_number": "4140173",
+  "title": "DRAM cells with improved miniaturised structure - formed in a monocrystalline silicon@ layer on the surface of a silicon@ substrate",
+  "abstract": "A DRAM is disclosed, with memory cells which each have a transistor and a capacitor, with: 1) a silicon substrate (2) of a first conductivity type with a major surface; 2) a single crystal Si layer (21) formed on the above major surface; 3) a transistor (15) with a first and a second impurity region (7a,7b), of a second conductivity type, which are sepd. from each other in the surface of the monocrystalline Si layer (21), a gate insulating layer (4) on the surface of the monocrystalline Si layer (21) and a gate electrode (5) on the gate insulating layer between the first and the second impurity regions (7a,7b); 4) a capacitor (16) with a first electrode layer (8) attached to the first impurity region (7b) of the transistor (15), a dielectric layer (9) formed on the surface of the first electrode layer (8), and a second electrode layer (10) formed on the surface of the dielectric layer; 5) a first conducting layer (17b) in contact with the gate electrode (5); and 6) a bit line (14b) having a second conducting layer made of polycrystalline Si, which is formed as a common layer with the monocrystalline Si layer (21), which bit line is in contact with the second impurity region (7a) of the transistor (15). A process for mfg. the above DRAM comprises: a) forming an element separating and insulating layer (3) in a predetermined region on the major surface of a silicon substrate (2); b) forming a monocrystalline Si layer (21) on the above major surface, and a conducting layer (18), extending to the monocrystalline Si layer (21), on the surface of the layer (3); c) patterning the conducting layer (18) to form a bit line (14b) extending in a predetermined direction above the layer (3); d) forming a gate insulating layer (4) and a gate electrode (5) on the surface of the monocrystalline Si layer (21); e) implanting impurity regions in the monocrystalline Si layer (21) using the gate electrode (5) as a mask; f) forming first electrode layer (8) and a dielectric layer (9), followed by a second electrode layer (10) on the surface of the dielectric layer (9). USE/ADVANTAGE - The DRAM is used in computers and information processing devices. It has an improved miniaturised structure of the memory cells and bit line structure, and enables access transistors of small dimensions to be constructed using a relatively simple mfg. process.",
+  "ipcr_codes": [
+    "H01L27/04",
+    "H01L21/822",
+    "H01L21/8242",
+    "H01L27/10",
+    "H01L27/108"
+  ],
+  "cpc_codes": [
+    "H10B12/31",
+    "H10B12/00",
+    "H10B12/31"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

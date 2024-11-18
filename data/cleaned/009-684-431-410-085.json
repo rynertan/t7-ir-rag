@@ -1,0 +1,31 @@
+{
+  "lens_id": "009-684-431-410-085",
+  "doc_number": "111682178",
+  "title": "Preparation method of nitrogen-doped graphene oxide/manganic oxide zinc ion battery positive electrode material",
+  "abstract": "The invention discloses a preparation method of a nitrogen-doped graphene oxide/manganic oxide composite material as a positive electrode material of an aqueous zinc ion battery. The method comprisesthe following steps: dissolving potassium permanganate and hydrochloric acid in deionized water, reacting in a high-pressure reaction kettle for 12-24 hours, continuously reacting the obtained precipitate with a reducing agent for 4-5 hours, and calcining to obtain the manganic oxide material; dissolving the manganic oxide material and nitrogen-doped graphene oxide into dissolved N-N dimethyl pyrrolidone in proportion, and performing suction filtration to obtain the nitrogen-doped graphene oxide/manganetic oxide composite material. The composite material prepared by the method has high stability and conductivity, can provide relatively high capacity and relatively good electrochemical cycle performance when applied to a positive electrode of the aqueous zinc ion battery, and has a wide application prospect.",
+  "ipcr_codes": [
+    "H01M4/36",
+    "C01B32/198",
+    "C01G45/02",
+    "H01M4/50",
+    "H01M4/62",
+    "H01M10/36"
+  ],
+  "cpc_codes": [
+    "H01M4/362",
+    "H01M4/50",
+    "H01M4/625",
+    "H01M10/36",
+    "C01B32/198",
+    "C01G45/02",
+    "H01M2004/021",
+    "H01M2004/028",
+    "Y02E60/10"
+  ],
+  "cited_patents": [
+    "102259929",
+    "110190272"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

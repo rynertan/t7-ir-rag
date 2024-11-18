@@ -1,0 +1,24 @@
+{
+  "lens_id": "015-471-316-699-58X",
+  "doc_number": "109902982",
+  "title": "A method and device for outputting information",
+  "abstract": "The embodiment of the invention discloses a method and a device for outputting information. A specific embodiment of the method comprises the following steps of: querying article sales prediction information of which an article identifier is matched with a target article identifier in an article sales prediction information table; Inquiring at least one piece of article warehouse division quantityinformation of which the article identifier is matched with the target article identifier in an article warehouse division quantity information table; Determining the ratio of the warehouse divisionquantity in the article warehouse division quantity information to the predicted sales quantity in the searched article sales quantity prediction information as the warehouse division ratio corresponding to the warehouse identifier in the article warehouse division quantity information for each searched article warehouse division quantity information; And outputting the warehouse identifier and the corresponding warehouse division proportion in the searched article warehouse division quantity information. According to the embodiment, the content richness of information output is improved. Whenpurchased articles or articles are put in storage, the storage proportion of the articles in the main bin of the articles and the branch bin proportion of the articles in other warehouses are provided, and therefore the overall delivery cost can be reduced.",
+  "ipcr_codes": [
+    "G06Q10/08"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "100986624",
+    "103116832",
+    "105550366",
+    "106156971",
+    "106327116",
+    "106779532",
+    "107292550",
+    "106991543",
+    "106991550",
+    "107230035"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

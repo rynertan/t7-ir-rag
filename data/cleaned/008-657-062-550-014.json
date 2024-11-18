@@ -1,0 +1,22 @@
+{
+  "lens_id": "008-657-062-550-014",
+  "doc_number": "106211341",
+  "title": "Bandwidth distribution method and device in wireless relay system",
+  "abstract": "The embodiment of the invention provides a bandwidth distribution method and device in a wireless relay system. The method is applied to a macro base station, and comprises the following steps of: obtaining a current scene parameter when a data request sent by a terminal serviced by relay equipment is received; according to the current scene parameter, determining a bandwidth pre-distribution scheme in a current bandwidth distribution period; according to the bandwidth pre-distribution scheme, calculating the throughput capacity of the wireless relay system in the current bandwidth distribution period; judging whether the throughput capacity is greater than a preset throughput capacity threshold value or not; and if so, distributing the bandwidth of the macro base station according to the bandwidth pre-distribution scheme in the current bandwidth distribution period, and otherwise, distributing the bandwidth of the macro base station according to a conventional bandwidth distribution scheme. Visibly, by means of the embodiment of the invention, the throughput capacity of the wireless relay system can be effectively increased; the response time of the wireless relay system on the data request is shortened; and thus, user requirements can be satisfied better.",
+  "ipcr_codes": [
+    "H04W72/04"
+  ],
+  "cpc_codes": [
+    "H04W72/0453",
+    "H04W72/51"
+  ],
+  "cited_patents": [
+    "2011125702",
+    "8559961",
+    "103918333",
+    "104394596",
+    "105578596"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

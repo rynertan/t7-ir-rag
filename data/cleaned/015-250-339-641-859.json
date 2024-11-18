@@ -1,0 +1,41 @@
+{
+  "lens_id": "015-250-339-641-859",
+  "doc_number": "1089196",
+  "title": "System und Verfahren zum Verwalten der Datenvertraulichkeit in einem Datenbankverwaltungssystem mit einem abh\u00e4ngig verbundenen Vertraulichkeitsdatenmarkt",
+  "abstract": "A system for managing data privacy comprises a database management system for storing data from a plurality of consumer database tables, with irrevocable logging of all access, whether granted or denied, to the data contents stored in the consumer data tables; a privacy metadata system that administers and records all data, users and usage of data that is registered as containing privacy elements; and a replication system that feeds the consumer access system with personal consumer data, maintains integrity of the consumer data and provides changes and corrections back to the originating database management system through their own integrity filters as well as a means of storage and the mechanism to provide input for changes in the personal data or privacy preferences. The system further includes means for managing consumer notification, access, correction and change of preferences for privacy or data protection in the privacy metadata system.",
+  "ipcr_codes": [
+    "G06F12/14",
+    "G06F1/00",
+    "G06F12/00",
+    "G06F17/30",
+    "G06F21/00",
+    "G06F21/24",
+    "G06Q30/02"
+  ],
+  "cpc_codes": [
+    "G06F21/6245",
+    "G06F2221/2101",
+    "G06Q30/02",
+    "G06F16/2358",
+    "G06F16/283",
+    "G06F16/252",
+    "G06F21/6245",
+    "G06Q30/02",
+    "G06F2221/2101",
+    "Y10S707/99939",
+    "Y10S707/99932",
+    "Y10S707/99952",
+    "G06F16/283",
+    "G06F16/2358",
+    "G06F16/252"
+  ],
+  "cited_patents": [
+    "9642059",
+    "5751949",
+    "9522792",
+    "0990972",
+    "0023932"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

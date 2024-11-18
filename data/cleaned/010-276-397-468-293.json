@@ -1,0 +1,24 @@
+{
+  "lens_id": "010-276-397-468-293",
+  "doc_number": "110488747",
+  "title": "Global optimization method for cutter-axis vector based on minimum angular acceleration of machine tool rotating shaft",
+  "abstract": "The invention belongs to the technical field of high-quality and high-efficiency milling of complex curved surface parts, and relates to a global optimization method for a cutter-axis vector based onthe minimum angular acceleration of a machine tool rotating shaft. The method comprises the steps of generating a cutter track by using an equal residual height method according to the curved surfaceand cutter characteristics; establishing an inverse kinematics relation of a five-axis machine tool; converting the cutter-axis vector under the workpiece coordinate system into a rotation angle valueof rotary feeding shaft of the machine tool, calculating the angular speed and the angular acceleration of the rotary feeding shaft of the machine tool by using a finite difference method; calculating a feasible space of the cutter axis at the position of a cutter contact point by means of a C space method according to an interference judgment criterion, judging the concavity and convexity of a cutter path curve, and determining a key cutter-axis vector on the cutter path curve; and optimizing the cutter-axis vector by taking the minimum angular acceleration in each interval as an objective.The method can effectively reduce the angular acceleration of the rotary feeding shaft of the machine tool in the machining process, realize the stability of the machining process, improve the surfacemachining quality and reduce the machining contour error.",
+  "ipcr_codes": [
+    "G05B19/19"
+  ],
+  "cpc_codes": [
+    "G05B19/19",
+    "G05B2219/35349"
+  ],
+  "cited_patents": [
+    "2005327321",
+    "101765816",
+    "102681489",
+    "103592891",
+    "103760827",
+    "104615084",
+    "105676786"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

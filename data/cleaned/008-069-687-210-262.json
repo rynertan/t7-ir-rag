@@ -1,0 +1,24 @@
+{
+  "lens_id": "008-069-687-210-262",
+  "doc_number": "0427092",
+  "title": "ELECTRO-OPTIC MODULATOR",
+  "abstract": "An electo-optic modulator (10) includes a pair of optical waveguide channels (20, 22) formed in an X-cut lithium niobate substrate (12) and an overlying RF coplanar waveguide (36). A periodic electrode structure (48) of the intermittent interaction type employs a plurality of middle stubs (52) to maintain the phase of the RF drive frequency in phase with the optical signal. The modulator (10) also utilizes shorter stubs (64) and tapered inlets (42) and outlets (44) to match and transform impedances.  ",
+  "ipcr_codes": [
+    "G02F1/225",
+    "G02F1/313",
+    "G02F1/035"
+  ],
+  "cpc_codes": [
+    "G02F1/2255",
+    "G02F1/3134",
+    "G02F2/00",
+    "G02F1/2255",
+    "G02F1/3134"
+  ],
+  "cited_patents": [
+    "0233797",
+    "2138587"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

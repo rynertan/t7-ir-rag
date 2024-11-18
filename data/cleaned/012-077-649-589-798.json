@@ -1,0 +1,24 @@
+{
+  "lens_id": "012-077-649-589-798",
+  "doc_number": "2699334",
+  "title": "METHOD FOR ASSESSING QUANTITATIVE ACCUMULATION OF A PARAMAGNETIC CONTRAST PREPARATION GDOF-Mn-DTPA FOR MAGNETIC RESONANCE IMAGING OF EXPERIMENTAL ANIMALS",
+  "abstract": "FIELD: medicine.SUBSTANCE: invention refers to experimental medicine and can be used for assessing behavior of paramagnetic contrast preparations in liver and other organs of laboratory animals. Method for assessing quantitative accumulation of paramagnetic contrast medium for magnetic resonance imaging of internal organs of experimental animals consists in constructing a calibration curve of the tissue protons relaxation rate versus concentration in contrast medium samples when conducting the magnetic resonance imaging of the analyzed samples using a Turbo Spin Echo protocol with inversion-recovery, wherein magnetic resonance imaging of samples is carried out based on a high-field MR-tomograph Toshiba Excellart Vantage 1.5 Tp. In order to construct a calibration curve, GDOF-Mn-DTPA contrast agent is prepared on 10 % rat liver homogenate with concentration of 0.01 to 0.1 mmol/l, samples are placed in a holder for eppendorf tubes volume of 1.5 ml per 72 nests and placed in a quadrature coil for head examination. Used inversion time TI, ms: 20, 100, 300, 500, 1,000, 3,000, 5,000.EFFECT: invention allows reducing the used concentrations of the contrast agent.1 cl, 1 dwg, 2 tbl, 1 ex",
+  "ipcr_codes": [
+    "G09B23/28",
+    "A61B5/055",
+    "A61K49/06",
+    "A61P35/00"
+  ],
+  "cpc_codes": [
+    "A61B5/055",
+    "A61K49/06",
+    "A61P35/00",
+    "G09B23/28"
+  ],
+  "cited_patents": [
+    "2446829",
+    "2427390"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

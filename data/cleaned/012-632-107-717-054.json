@@ -1,0 +1,21 @@
+{
+  "lens_id": "012-632-107-717-054",
+  "doc_number": "110336506",
+  "title": "PMSM chaotic system neural network inversion control method",
+  "abstract": "The invention discloses a PMSM chaotic system neural network inversion control method, which comprises steps: 1) a dynamic model of the PMSM system is built; 2) a robust neural network adaptive tracking controller is built, system output tracking errors have set performance constraints, a non-strict feedback control structure and a PP-TBLF are combined, the controller for the permanent magnet synchronous motor system adopts the neural adaptive tracking control scheme of the inversion technique, during a recursive process, a Chebyshev neural network, Lyapunov functional, Nussbaum functional anda differential tracker are used respectively to process unknown nonlinearities, time delay, unknown gain symbols, and complexity explosions. The system stability can be realized, and the versatilityand the reliability of the system are enhanced.",
+  "ipcr_codes": [
+    "H02P21/00"
+  ],
+  "cpc_codes": [
+    "H02P21/0014",
+    "H02P2207/05"
+  ],
+  "cited_patents": [
+    "4631464",
+    "107592048",
+    "109245645",
+    "110138293"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

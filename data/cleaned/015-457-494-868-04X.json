@@ -1,0 +1,22 @@
+{
+  "lens_id": "015-457-494-868-04X",
+  "doc_number": "106990051",
+  "title": "Metal material surface-layer electronic information non-destructive detection device and detection method",
+  "abstract": "The invention discloses a metal material surface-layer electronic information non-destructive detection device and detection method. The device comprises a first beam splitting sheet, a first reflector, a first variable neutral density filter sheet, a second beam splitting sheet, a second reflector, a third reflector, an electric translation platform, a fourth reflector, a second variable neutral density filter sheet, a fifth reflector, a parabolic mirror, a sample rack for placing a sample, a first convex lens, a multi-channel lock-in amplifier, a second convex lens, a light beam quality monitoring system, a computer and a shading sleeve. The device cannot cause extra damage to the sample and can acquire relevant information of transition of an electronic valence band on the surface of a metal and deduce macrocosmic information of metal modification or damage according to microscopic electron transition, so that the device provides an important assistance for non-destructive detection of a metal material subjected to laser shock processing and also has an important instruction significance for improving the damage resistance of the metal material.",
+  "ipcr_codes": [
+    "G01N21/25",
+    "G01N21/55"
+  ],
+  "cpc_codes": [
+    "G01N21/25",
+    "G01N21/55"
+  ],
+  "cited_patents": [
+    "202916009",
+    "203643362",
+    "104101486",
+    "105738374"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

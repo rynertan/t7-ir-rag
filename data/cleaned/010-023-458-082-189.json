@@ -1,0 +1,32 @@
+{
+  "lens_id": "010-023-458-082-189",
+  "doc_number": "0996188",
+  "title": "Mikrowellen-Millimeterwellenschaltungsanordnung und Herstellungsverfahren mit Zirkulator oder Isolator",
+  "abstract": "Circuits having active devices, a pattern for a circulator or isolator, and ferrite are formed on a semiconductor microwave - millimeter wave circuit substrate. The ferrite is embedded in a dielectric substrate. The dielectric substrate is oppositely aligned with the semiconductor microwave - millimeter wave circuit substrate having the pattern for the circulator or the like. Thus, the pattern is coupled with the ferrite so as to structure the circulator or isolator.",
+  "ipcr_codes": [
+    "H01P1/36",
+    "H01P1/383",
+    "H01P1/387",
+    "H01P7/10",
+    "H01P11/00"
+  ],
+  "cpc_codes": [
+    "H01P7/10",
+    "H01P7/10",
+    "H01L2224/04026",
+    "H01L2224/04026",
+    "H01L2224/16227",
+    "H01L2224/16227",
+    "H01L2924/09701",
+    "H01L2924/09701",
+    "H01L2924/13062",
+    "H01L2924/13062",
+    "H01P1/387",
+    "H01P1/387",
+    "H01P11/00",
+    "H01P11/00"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

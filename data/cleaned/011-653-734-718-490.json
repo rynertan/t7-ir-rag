@@ -1,0 +1,35 @@
+{
+  "lens_id": "011-653-734-718-490",
+  "doc_number": "2017049260",
+  "title": "DETECTION OF EPHA3 AS MARKER OF PRESENCE OF SOLID TUMOR",
+  "abstract": "PROBLEM TO BE SOLVED: To provide methods and compositions for detecting non-hematopoietic, non-tumor EphA3-expressing cells in cancer patients and for monitoring prognosis of patients by using EphA3 as a detection marker.SOLUTION: Level of EphA3+ non-hematopoietic, non-tumor cells in peripheral blood is used for diagnosing presence of a solid tumor. Methods further comprise a step of determining whether the EphA3+ cells express CD34, CD45, CD44, CD90, and/or KDR. Methods for treating patients having increased level of EphA3-expressing non-hematopoietic, non-tumor cells in the blood are also described.SELECTED DRAWING: Figure 4",
+  "ipcr_codes": [
+    "G01N33/574",
+    "A61K39/395",
+    "A61K45/00",
+    "A61P9/00",
+    "A61P35/00",
+    "C12Q1/04",
+    "G01N33/543"
+  ],
+  "cpc_codes": [
+    "G01N33/57492",
+    "G01N2333/70585",
+    "G01N2333/70589",
+    "G01N2800/52",
+    "C07K16/2866",
+    "A61P35/00",
+    "A61P9/00",
+    "G01N33/57492",
+    "G01N2333/70585",
+    "G01N2333/70589",
+    "G01N2800/52",
+    "C07K16/2866"
+  ],
+  "cited_patents": [
+    "2010520290",
+    "2009525468"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,27 @@
+{
+  "lens_id": "013-675-399-927-286",
+  "doc_number": "112634994",
+  "title": "Method for formulating deuterium gas concentration and treatment time combination for optical fiber deuterium gas treatment",
+  "abstract": "The invention discloses a deuterium gas concentration and treatment time combined formulating method for optical fiber deuterium gas treatment. The deuterium gas concentration and treatment time combined formulating method for optical fiber deuterium gas treatment comprises the following steps: determining an optical fiber comprehensive additional attenuation value; determining a combined relationship among the optical fiber comprehensive additional attenuation value, the deuterium gas concentration and the deuterium gas treatment time of the optical fiber: Z (x, y) = a0 + a1x + a2y + a3x2 + a4xy + a5y2; and determining the combined relationship between the deuterium gas concentration and the deuterium gas treatment time of the optical fiber: a0 + a1x + a2y + a3x2 + a4xy + a5y2 = 0. According to the invention, optimal combination relationship between the deuterium gas concentration and the deuterium gas treatment time of the optical fiber is determined by using the least square method, so that the minimum hydrogen loss of the optical fiber is realized, and the cost for determining the combination relationship between the deuterium gas concentration and the deuterium gas treatment time of the optical fiber each time is reduced.",
+  "ipcr_codes": [
+    "G16C10/00",
+    "C03C25/66",
+    "G16C20/10",
+    "G16C60/00"
+  ],
+  "cpc_codes": [
+    "G16C10/00",
+    "G16C20/10",
+    "G16C60/00",
+    "C03C25/66"
+  ],
+  "cited_patents": [
+    "1562844",
+    "2007092191",
+    "101523257",
+    "101838114",
+    "104583140"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

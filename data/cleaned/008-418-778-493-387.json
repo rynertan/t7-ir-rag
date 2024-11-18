@@ -1,0 +1,30 @@
+{
+  "lens_id": "008-418-778-493-387",
+  "doc_number": "2850217",
+  "title": "ACTIONNEUR PIEZOACTIF A DEPLACEMENT AMPLIFIE AMORTI",
+  "abstract": "<P>L'actionneur pi\u00e9zoactif \u00e0 d\u00e9placement amplifi\u00e9 comporte un premier sous-ensemble, constitu\u00e9 par un amplificateur m\u00e9canique de d\u00e9placement agenc\u00e9 selon une coquille \u00e0 au moins deux branches (n1 et n2) en mat\u00e9riau \u00e9lastique d\u00e9formable et un deuxi\u00e8me sous-ensemble \u00e9quip\u00e9 d'\u00e9l\u00e9ments (20 et 20a) pi\u00e9zoactifs lin\u00e9aires mont\u00e9s \u00e0 l'int\u00e9rieur de la coquille et au moins une zone en mat\u00e9riau \u00e9lastom\u00e8re (32) destin\u00e9e \u00e0 amortir des d\u00e9formations de l'actionneur et \u00e0 augmenter la capacit\u00e9 de l'actionneur \u00e0 supporter des efforts ext\u00e9rieurs. L'actionneur pi\u00e9zoactif peut comporter un dispositif de pr\u00e9contrainte suppl\u00e9mentaire. Un actionneur fournissant deux degr\u00e9s de libert\u00e9 comporte un dispositif m\u00e9canique autorisant un mouvement du centre de l'actionneur dans la direction normale \u00e0 l'actionneur et emp\u00eachant un mouvement dans la direction tangentielle \u00e0 l'actionneur.</P>",
+  "ipcr_codes": [
+    "H01L41/09",
+    "H02N2/02",
+    "H02N2/04"
+  ],
+  "cpc_codes": [
+    "H02N2/028",
+    "H02N2/028",
+    "H02N2/0095",
+    "H02N2/0095",
+    "H02N2/043",
+    "H02N2/043"
+  ],
+  "cited_patents": [
+    "0363032",
+    "4420826",
+    "2672179",
+    "5291461",
+    "2740643",
+    "5199701",
+    "6465936"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,28 @@
+{
+  "lens_id": "013-268-695-429-291",
+  "doc_number": "107008478",
+  "title": "Preparation method of magnetic nanometer catalyst",
+  "abstract": "The invention provides a preparation method of a Pd (palladium)-loaded polyacid composite magnetic nanometer catalyst with high catalyzing activity and recycling effect. The preparation method comprises the following steps of using magnetic particles to coat mesoporous TiO2 (titanium dioxide), and aminating, so as to obtain a carrier; using an electrochemical method to reduce heteropolyacid, and loading onto the magnetic carrier; using reductive polyacid to reduce and deposit noble metal Pd nanoparticle in situ, so as to obtain the composite catalyst. The preparation method has the advantages that the preparation method is simple, and the catalytic reduction reaction activity is high; a magnet is directly used for attracting and separating, the multiple-time recycling effect is realized, and the technical problems of immobilizing, separating and recycling, and repeated utilization of the polyacid catalyst are effectively solved.",
+  "ipcr_codes": [
+    "B01J27/19",
+    "C02F1/00",
+    "C02F101/38"
+  ],
+  "cpc_codes": [
+    "B01J27/19",
+    "B01J35/0013",
+    "B01J35/0033",
+    "B01J35/0073",
+    "C02F1/00",
+    "C02F2101/38"
+  ],
+  "cited_patents": [
+    "101362087",
+    "103357401",
+    "105195216",
+    "105521798",
+    "102631683"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,41 @@
+{
+  "lens_id": "014-252-264-957-869",
+  "doc_number": "2004035462",
+  "title": "NANOSTRUCTURES INCLUDING CONTROLLABLY POSITIONED AND ALIGNED SYNTHETIC NANOTUBES, AND METHODS OF THEIR MANUFACTURE",
+  "abstract": "An integrated nanostructure comprises a microelectronic substrate having a surface; a catalyst disposed upon the surface of the microelectronic substrate and positioned thereupon within a first predetermined set of X and Y coordinates, wherein the catalyst is activated within a second predetermined set of X and Y coordinates defined within the surface of the microelectronic substrate; and a nanotube selectively disposed upon the activated second predetermined set of X and Y coordinates defined within the surface of the microelectronic substrate, such that the nanotube is controllably grown at a predetermined position upon the surface of the microelectronic substrate; wherein at least one selected from the group consisting of: (1) the disposition according to the first predetermined set of X and Y coordinates and (2) the activation of the catalyst according to the second predetermined set of X and Y coordinates is scaled with atomic precision.",
+  "ipcr_codes": [
+    "C01B31/02",
+    "H01L51/00",
+    "H01L51/30"
+  ],
+  "cpc_codes": [
+    "B82Y10/00",
+    "B82Y30/00",
+    "B82Y40/00",
+    "C01B2202/02",
+    "C01B2202/06",
+    "C01B2202/08",
+    "C01B32/162",
+    "Y10T428/30",
+    "H10K85/221",
+    "H10K85/615",
+    "Y10T428/30",
+    "B82Y30/00",
+    "B82Y40/00",
+    "C01B2202/02",
+    "C01B2202/08",
+    "B82Y10/00",
+    "C01B2202/06",
+    "C01B32/162",
+    "H10K85/221",
+    "H10K85/615"
+  ],
+  "cited_patents": [
+    "9965821",
+    "6346189",
+    "2002122766",
+    "6401526"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

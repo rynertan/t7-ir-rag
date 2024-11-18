@@ -1,0 +1,45 @@
+{
+  "lens_id": "009-083-040-455-75X",
+  "doc_number": "102834491",
+  "title": "Gasoline hydrodesulfurization and membrane unit to reduce mercaptan type sulfur",
+  "abstract": "A process for the hydrodesulfurization of gasoline is disclosed, the process including: feeding (1) a cracked naphtha containing mercaptans and other organic sulfur compounds and (2) hydrogen to a first hydrodesulfurization reactor containing one or more beds of a hydrodesulfurization catalyst; contacting sulfur compounds comprising the other organic sulfur compounds in the cracked naphtha with hydrogen in the presence of a hydrodesulfurization catalyst to convert a portion of the other organic sulfur compounds to hydrogen sulfide; withdrawing from the hydrodesulfurization reactor an effluent comprising hydrocarbons and hydrogen sulfide. The effluent from the hydrodesulfurization reactor is fed to a membrane separation system containing a membrane for partitioning the hydrocarbons from the hydrogen sulfide. For example, the membrane may be selective to hydrogen sulfide, to separate a permeate fraction comprising hydrogen sulfide from a residue fraction comprising the hydrocarbons.",
+  "ipcr_codes": [
+    "C10G67/02",
+    "B01D61/00",
+    "C10G35/04",
+    "C10G45/00"
+  ],
+  "cpc_codes": [
+    "C10G67/02",
+    "B01D61/362",
+    "C10G65/04",
+    "C10L1/04",
+    "B01D2317/022",
+    "C10G2300/202",
+    "C10G2300/4087",
+    "C10G2400/02",
+    "C10G2300/1044",
+    "C10G2300/207",
+    "C10G2300/104",
+    "C10G2300/4093",
+    "C10G65/04",
+    "C10G67/02",
+    "C10G2400/02",
+    "C10L1/04",
+    "C10G2300/202",
+    "C10G2300/4087",
+    "B01D2317/022",
+    "C10G2300/207",
+    "C10G2300/1044",
+    "C10G2300/104",
+    "C10G2300/4093"
+  ],
+  "cited_patents": [
+    "5837130",
+    "7261809",
+    "1264957",
+    "2005067323"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

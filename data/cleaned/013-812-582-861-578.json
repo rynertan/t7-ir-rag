@@ -1,0 +1,23 @@
+{
+  "lens_id": "013-812-582-861-578",
+  "doc_number": "112737330",
+  "title": "Novel high-gain Buck-Boost DC-DC converter",
+  "abstract": "The invention discloses a novel high-gain Buck-Boost DC-DC converter. The converter comprises a direct current input source, a basic Buck-Boost converter, m-1 voltage expansion units, a leakage inductance absorption unit and a transformer unit. Each voltage expansion unit is composed of an inductor, two capacitors and a diode, and the output gain of the converter and the voltage stress of a switching device can be adjusted by adjusting the number of the voltage expansion units. The converter has the advantages of simple control and drive circuit, high efficiency, low switching device voltage stress, few components and the like; and the converter is suitable for an application occasion with a large voltage gain.",
+  "ipcr_codes": [
+    "H02M3/158",
+    "H02M1/32",
+    "H02M3/335"
+  ],
+  "cpc_codes": [
+    "H02M3/1582",
+    "H02M1/32",
+    "H02M3/33523"
+  ],
+  "cited_patents": [
+    "2019386566",
+    "110994992",
+    "111464024"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

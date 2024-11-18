@@ -1,0 +1,22 @@
+{
+  "lens_id": "009-222-448-835-171",
+  "doc_number": "111925989",
+  "title": "Microglial cell culture method",
+  "abstract": "The invention discloses a culture method of microglial cells. The culture method comprises the following steps: transferring tissues into a centrifuge tube filled with pre-cooled HBSS for treatment; discarding a supernatant, adding preheated pancreatin containing leukemia inhibitory factors (LIF), and slightly shaking to enable the tissue to be in full contact with the digestive juice to obtain atissue solution; adding lIF into a culture medium of fetal calf serum; adding the isopyknic culture medium into a tissue solution to terminate digestion; adding an LIF-containing culture medium, and repeatedly blowing and beating by using a spear tip to disperse and filter the cells so as to obtain a single-cell suspension; and inoculating the single-cell suspension into a plurality of cell culture flasks for culturing. On the basis of a traditional mixed glial cell culture method, LIF is added into pancreatin and a culture medium, and microglial cells are separated by adopting a shaking tableoscillation method, so that the microglial cells which are not easy to activate can be obtained, and the method has important significance for obtaining the neuroglial cells in a resting state for adrug evaluation experiment.",
+  "ipcr_codes": [
+    "C12N5/079",
+    "C12N5/02"
+  ],
+  "cpc_codes": [
+    "C12N5/0622",
+    "C12N2501/235",
+    "C12N2509/00",
+    "C12N2509/10"
+  ],
+  "cited_patents": [
+    "105695410",
+    "109609459"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,33 @@
+{
+  "lens_id": "009-875-673-534-744",
+  "doc_number": "2328349",
+  "title": "INFORMATIONSVERARBEITUNGSSYSTEM UND INFORMATIONSVERARBEITUNGSVERFAHREN",
+  "abstract": null,
+  "ipcr_codes": [
+    "H04N7/173",
+    "G06F13/00"
+  ],
+  "cpc_codes": [
+    "G06F13/00",
+    "H04N7/173",
+    "H04N7/173",
+    "H04N7/173",
+    "H04N5/76",
+    "H04N5/76",
+    "H04N21/242",
+    "H04N21/242",
+    "H04N21/4788",
+    "H04N21/4788"
+  ],
+  "cited_patents": [
+    "2009071321",
+    "2068528",
+    "2005244605",
+    "2007104193",
+    "6161132",
+    "6005600",
+    "2007133847"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

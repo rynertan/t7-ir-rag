@@ -1,0 +1,26 @@
+{
+  "lens_id": "012-280-303-558-381",
+  "doc_number": "105974159",
+  "title": "High voltage signal-generator discharge apparatus",
+  "abstract": "The invention relates to a high voltage signal-generator discharge apparatus which includes a swing rod charging and discharging mechanism and a driving mechanism which drives the swing rod charging and discharging mechanism to swing. The swing rod charging and discharging mechanism includes an anode swing rod, a cathode swing rod, a charging connecting plate and an insulating baffle plate. The anode swing rod and the cathode swing rod are provided with a connection shaft therebetween. The two ends of the connection shaft are in respective rotation connection to the anode swing rod and the cathode swing rod. The anode swing rod and the cathode swing rod are provided with a discharging contact and a charging contact thereon. The discharging contact and the charging contact are connected therebetween to a capacitor connecting line which is connected to a capacitor. The discharging contact is connected to a fault cable. The charging contact is connected to the charging connecting plate. Compared with prior art, the apparatus realizes complete separation between charging operations and discharging operations in charging and discharging, allows separate operation of the charging and discharging, has no cross influence, and guarantees operation stability of the entire apparatus.",
+  "ipcr_codes": [
+    "G01R1/00",
+    "G01R31/08"
+  ],
+  "cpc_codes": [
+    "G01R1/00",
+    "G01R31/083"
+  ],
+  "cited_patents": [
+    "2768017",
+    "2857030",
+    "2008215899",
+    "202256417",
+    "203217041",
+    "104931863",
+    "105116282",
+    "20150138834"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,27 @@
+{
+  "lens_id": "008-831-246-105-493",
+  "doc_number": "2007202513",
+  "title": "Mechanism for conveying an article",
+  "abstract": "A pusher mechanism for pushing bottles formed in an 1. S. machine 5 from a dead plate to a conveyor. The pusher mechanism includes a pusher finger assembly which is supported by a housing and is movable about an axis of support and about the parallel axis of rotation of the housing. A pair of servo motors effect the desired rotation of the two axes through cam profiles each of which has at least one Bezier curve segment with a parameter of one 10 curve linked to a parameter of the other curve.",
+  "ipcr_codes": [
+    "C03B9/453"
+  ],
+  "cpc_codes": [
+    "B65G47/82",
+    "C03B9/41",
+    "C03B9/453",
+    "B65G47/82",
+    "C03B9/41",
+    "C03B9/453"
+  ],
+  "cited_patents": [
+    "2005193773",
+    "2005085145",
+    "5904745",
+    "2005071021",
+    "6295072",
+    "2003078692"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

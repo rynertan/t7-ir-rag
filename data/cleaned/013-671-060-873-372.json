@@ -1,0 +1,52 @@
+{
+  "lens_id": "013-671-060-873-372",
+  "doc_number": "106687123",
+  "title": "MAP44 polypeptides and constructs based on natural antibodies and uses thereof",
+  "abstract": "The present invention provides delivery methods and constructs for treating inflammatory diseases in an individual. The targeted delivery approach utilizes an antibody that recognizes an epitope found to be present at sites of inflammation. The antibody is used to deliver a MAp44 polypeptide or fragment thereof to sites of inflammation, where it inhibits the lectin pathway of complement activation.",
+  "ipcr_codes": [
+    "A61K38/00",
+    "A61K39/395",
+    "A61P19/02"
+  ],
+  "cpc_codes": [
+    "A01K67/027",
+    "C12N2710/10041",
+    "A61K38/00",
+    "A01K2207/10",
+    "A01K2227/105",
+    "A61K38/482",
+    "C12N9/6424",
+    "C12Y304/21",
+    "A61P19/02",
+    "A61P29/00",
+    "A01K67/027",
+    "A61K38/00",
+    "A01K2207/10",
+    "C12N2710/10041",
+    "A01K2227/105",
+    "A01K67/027",
+    "C12N2710/10041",
+    "A61K38/00",
+    "A01K2227/105",
+    "A01K2207/10",
+    "A61K38/482",
+    "A61K48/00",
+    "C07K16/18",
+    "C07K16/44",
+    "C07K2317/622",
+    "C07K2319/00",
+    "C12N9/6424",
+    "C12Y304/21"
+  ],
+  "cited_patents": [
+    "2008021290",
+    "2011014270",
+    "2012122107",
+    "2013508301",
+    "2013171236",
+    "2013344073",
+    "2014116880"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

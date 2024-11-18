@@ -1,0 +1,33 @@
+{
+  "lens_id": "015-074-257-625-193",
+  "doc_number": "2010102259",
+  "title": "PLATFORM VALIDATION AND MANAGEMENT OF WIRELESS DEVICES",
+  "abstract": "Methods, components and apparatus for implementing platform validation and management (PVM) are disclosed. PVM provides the functionality and operations of a platform validation entity with remote management of devices by device management components and systems such as a home node-B management system or component. Example PVM operations bring devices into a secure target state before allowing connectivity and access to a core network.",
+  "ipcr_codes": [
+    "H04W12/10"
+  ],
+  "cpc_codes": [
+    "G06F21/57",
+    "H04L63/123",
+    "G06F21/44",
+    "H04W12/10",
+    "H04W12/35",
+    "H04W12/61",
+    "H04W12/71",
+    "G06F21/44",
+    "H04L63/123",
+    "H04W12/08",
+    "G06F21/44",
+    "G06F21/57",
+    "H04L63/123",
+    "H04W12/35",
+    "H04W12/61",
+    "H04W12/71",
+    "H04W12/10",
+    "H04W12/06",
+    "H04W12/08"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

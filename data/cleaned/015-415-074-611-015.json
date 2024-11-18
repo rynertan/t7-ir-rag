@@ -1,0 +1,38 @@
+{
+  "lens_id": "015-415-074-611-015",
+  "doc_number": "107205638",
+  "title": "Systems and methods for dual vitreous and retina imaging",
+  "abstract": "A system and method for using optical coherence tomography (OCT) to image both the vitreous and the retina in the eye. The image of both tissues may be created sequentially, simultaneously, or near-simultaneously from at least one OCT image.",
+  "ipcr_codes": [
+    "A61B3/12",
+    "A61B3/14",
+    "G06T5/50"
+  ],
+  "cpc_codes": [
+    "A61B3/0025",
+    "A61B3/0058",
+    "A61B3/102",
+    "A61B3/12",
+    "A61B3/14",
+    "G06T5/50",
+    "G06T2207/10101",
+    "G06T2207/30041",
+    "G06T5/50",
+    "G06T2207/10101",
+    "G06T2207/30041",
+    "A61B3/0025",
+    "A61B3/14",
+    "A61B3/102",
+    "A61B3/12",
+    "A61B3/0058",
+    "G06T2207/10101",
+    "G06T2207/30041",
+    "G06T5/50"
+  ],
+  "cited_patents": [
+    "102525405",
+    "103514605"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

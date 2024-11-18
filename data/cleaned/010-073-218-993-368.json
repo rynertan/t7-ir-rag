@@ -1,0 +1,19 @@
+{
+  "lens_id": "010-073-218-993-368",
+  "doc_number": "2759216",
+  "title": "PROCEDE DE REGULATION D'UNE MACHINE TOURNANTE, SYSTEME D'ASSERVISSEMENT POUR METTRE EN OEUVRE LEDIT PROCEDE, ET MACHINE TOURNANTE POURVUE D'UN TEL SYSTEME",
+  "abstract": "<P>L'invention concerne un proc\u00e9d\u00e9 de r\u00e9gulation d'une machine tournante \u00e0 n phases aliment\u00e9e par l'interm\u00e9diaire d'un onduleur de tension d\u00e9finissant mn \u00e9tats du vecteur tension de phase stator, la machine \u00e9tant asservie en couple \u00e9lectromagn\u00e9tique Gamma et en flux statorique |phis| , selon l'invention un calculateur calcule une succession de n \u00e9tats du vecteur tension de phase pour rapprocher le couple Gamma et le flux |phis| des consignes Gamma ref, |phis|ref, \u00e0 chaque \u00e9chantillonnage, le temps d'application restant de l'\u00e9tat en cours et les temps d'application mis \u00e0 jour des \u00e9tats futurs du vecteur de phase, etde fa\u00e7on asynchrone avec les instants d'\u00e9chantillonnage, le calculateur envoi des signaux de commande des SPmLL pour commuter de l'\u00e9tat en cours vers l'\u00e9tat suivant.</P>",
+  "ipcr_codes": [
+    "H02M7/5387",
+    "G05D3/00"
+  ],
+  "cpc_codes": [
+    "H02M7/53875",
+    "H02P21/12",
+    "H02P21/12",
+    "H02M7/53875"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

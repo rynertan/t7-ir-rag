@@ -1,0 +1,20 @@
+{
+  "lens_id": "014-644-884-735-100",
+  "doc_number": "2005089319",
+  "title": "REFRACTIVE BOUNDARY ELEMENTS, DEVICES, AND MATERIALS",
+  "abstract": "An optical device includes an interface (304) between two or more media (302 and 308). The refractive indices (n1 and n2), orientations of media, and alignment relative to a propagating wave (300) define a refractive boundary at which reflections may be reduced or eliminated, and at which, for certain incident angles, rays may be refracted on the same side of the normal (306) as the incident ray (300).",
+  "ipcr_codes": [
+    "G02B5/30"
+  ],
+  "cpc_codes": [
+    "G02B5/3083",
+    "G02B5/3083"
+  ],
+  "cited_patents": [
+    "6667095",
+    "4582655",
+    "2003227415"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

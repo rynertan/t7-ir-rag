@@ -1,0 +1,27 @@
+{
+  "lens_id": "008-033-123-923-916",
+  "doc_number": "110643050",
+  "title": "5-(4-imidazolyl-1-phenyl)-1H-tetrazole based Zn(II) chiral MOF (Metal-Organic Framework) material",
+  "abstract": "The invention discloses a 5-(4-imidazolyl-1-phenyl)-1H-tetrazole based Zn(II) chiral MOF (Metal-Organic Framework) material. The Zn(II) chiral MOF material is obtained through taking L-Histidine (L-His) as a template agent, dissolving 5-(4-imidazolyl-1-phenyl)-1H-tetrazole (HL) and Zn(NO3)2.6H2O in DMF (N,N-dimethylformamide), adjusting a pH value of the solution with concentrated sulfuric acid, and then, adopting a solvothermal method. The Zn(II) chiral MOF material is used for resolving alanine as a chiral stationary phase material of a chromatography chiral resolution experiment and has a good separating effect on the alanine.",
+  "ipcr_codes": [
+    "C08G83/00",
+    "B01D15/38",
+    "B01J20/22",
+    "B01J20/29",
+    "B01J20/30"
+  ],
+  "cpc_codes": [
+    "B01D15/3833",
+    "B01J20/226",
+    "B01J20/29",
+    "C08G83/008"
+  ],
+  "cited_patents": [
+    "101830920",
+    "106166482",
+    "107096258",
+    "110292910"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

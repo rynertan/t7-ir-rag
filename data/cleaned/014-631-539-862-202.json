@@ -1,0 +1,21 @@
+{
+  "lens_id": "014-631-539-862-202",
+  "doc_number": "2000036528",
+  "title": "A SYSTEM AND METHOD FOR AUTHORING, DISTRIBUTING AND REPLAYING DERIVATIVE HYPERMEDIA CONTENT",
+  "abstract": "A system for authoring, distributing, and replaying derivative hypermedia content comprises an authoring system for recording dynamic annotations; a distribution system for distributing the dynamic annotations which have been recorded in the preceding step; and a playing system for playing the dynamic annotations which have been distributed in the preceding step. The system is applicable to the Internet or World-Wide Web (WWW) and/or to Intranet use.",
+  "ipcr_codes": [
+    "G06F17/22",
+    "G06F17/24"
+  ],
+  "cpc_codes": [
+    "G06F40/137",
+    "G06F40/137",
+    "G06F40/131",
+    "G06F40/169"
+  ],
+  "cited_patents": [
+    "0762297"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

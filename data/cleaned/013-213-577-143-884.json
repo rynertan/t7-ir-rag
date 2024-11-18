@@ -1,0 +1,26 @@
+{
+  "lens_id": "013-213-577-143-884",
+  "doc_number": "0093644",
+  "title": "SWITCHED CAPACITOR CIRCUIT",
+  "abstract": "In a switched capacitor circuit, in order to eliminate leakage of a power supply noise component to a signal line through an input capacitance of an operation amplifier, (1) an operating current of at least a first, differential stage among stages of the operational amplifier is regulated by a current regulation bias circuit, and (2) a power supply noise component having the same phase as that of an input signal is applied to the gate of a transistor of a gain stage, thereby stabilizing the operating point. In order to eliminate leakage of the power supply noise component to the signal line through a parasitic capacitance of an analog switch, (3) a dummy switch is used to detect a signal corresponding to the leakage component of the power supply noise component to the signal line, and an inverted signal having the opposite phase to that of the signal corresponding to the leakage component is applied to a substrate of the analog switch, thereby cancelling the actual leakage component.",
+  "ipcr_codes": [
+    "G11C27/02",
+    "H03H19/00"
+  ],
+  "cpc_codes": [
+    "G11C27/024",
+    "G11C27/026",
+    "H03H19/00",
+    "H03H19/00",
+    "G11C27/026",
+    "G11C27/024"
+  ],
+  "cited_patents": [
+    "3947778",
+    "2010038",
+    "4308468",
+    "0036246"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

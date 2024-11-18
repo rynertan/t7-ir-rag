@@ -1,0 +1,31 @@
+{
+  "lens_id": "010-471-077-591-747",
+  "doc_number": "107680818",
+  "title": "Highly lithium-rich lithium ion capacitor",
+  "abstract": "The invention relates to a lithium ion capacitor, especially relates to a highly lithium-rich Li2CuO2 lithium ion capacitor, and belongs to the technical field of new energy storage devices. The highly lithium-rich lithium ion capacitor comprises a positive electrode sheet, a negative electrode sheet, a diaphragm and an electrolyte, wherein the positive electrode sheet, the negative electrode sheet and the diaphragm are immersed in the electrolyte, the positive electrode sheet comprises an etched aluminum foil and a positive electrode material coated on both sides of the etched aluminum foil,the positive electrode material comprises a positive electrode active material, a binding agent and a conductive agent, and the positive electrode active material is a composite material comprising 70-95 parts of activated carbon and 5-30 parts of Li2CuO2. The capacitor uses the composite material adopting the Li2CuO2/activated carbon with high rate performance as the positive electrode active material, so that a lithium metal oxide only needs to be mixed in the slurry mixing process, is charged to the voltage between 4.0-4.2V under a condition of 0.02-0.2 DEG C, stabilized for a certain timeand then charged and discharged for multiple times in a cycling manner between the voltage between 2.8-3.8 so as to complete a lithium embedding procedure in the preparation process.",
+  "ipcr_codes": [
+    "H01G11/06",
+    "H01G11/30",
+    "H01G11/32",
+    "H01G11/46",
+    "H01G11/50",
+    "H01G11/86"
+  ],
+  "cpc_codes": [
+    "H01G11/06",
+    "H01G11/30",
+    "H01G11/32",
+    "H01G11/46",
+    "H01G11/50",
+    "H01G11/86",
+    "Y02E60/13"
+  ],
+  "cited_patents": [
+    "101147281",
+    "20130140945",
+    "103700848",
+    "106847520"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,25 @@
+{
+  "lens_id": "008-019-821-843-242",
+  "doc_number": "110904139",
+  "title": "Recombinant vector, strain, and expression and purification method of Rhizoctonia solani effector protein",
+  "abstract": "The invention discloses a recombinant vector, a strain, and an expression and purification method of a Rhizoctonia solani effector protein, and belongs to the biotechnical field. The recombinant vector is used for expressing the Rhizoctonia solani effector protein; the recombinant vector is obtained by inserting a coding gene of the Rhizoctonia solani effector protein into a position between EcoRIand XhoI restriction enzyme cutting site of a pET-32a vector; the amino acid sequence of the Rhizoctonia solani effector protein is represented by SEQ ID NO:1 in a sequence table; and the nucleotidesequence of the coding gene of the Rhizoctonia solani effector protein is represented by SEQ ID NO:2 in the sequence table. The strain with the recombinant vector is subjected to activation culture, isopropyl-beta-D-thiogalactoside is added to induce the expression of the target protein, the target protein is dissolved by using a protein dissolving buffer solution, and elution and dialysis treatments are carried out multiple times with different buffer solutions to obtain a high-concentration Rhizoctonia solani effector protein solution.",
+  "ipcr_codes": [
+    "C12N15/70",
+    "C07K1/14",
+    "C07K1/22",
+    "C07K14/375",
+    "C12N1/21",
+    "C12R1/19"
+  ],
+  "cpc_codes": [
+    "C07K14/375",
+    "C12N15/70"
+  ],
+  "cited_patents": [
+    "104211752",
+    "106636163",
+    "109942719"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

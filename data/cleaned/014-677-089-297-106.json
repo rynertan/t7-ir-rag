@@ -1,0 +1,18 @@
+{
+  "lens_id": "014-677-089-297-106",
+  "doc_number": "103078254",
+  "title": "Narrow-spectrum high-power semiconductor laser stack and preparation method thereof",
+  "abstract": "The invention relates to a narrow-spectrum high-power semiconductor laser stack and a preparation method thereof. The preparation method of the narrow-spectrum high-power semiconductor laser stack comprises the steps: conducting simulation experiment on the semiconductor laser stack through a refrigerating manner of the semiconductor laser stack, to obtain the temperature distribution condition of all bar storage areas forming the stack; measuring the spectrum of each bar to obtain the central wavelength of each bar, placing the bar with greater central wavelength in the area with lower simulated temperature, placing the bar with shorter central wavelength in the area with higher stack temperature, so as to enable the wavelength of the bars to be matched with the temperature of the areas; and assembling the stack to achieve consistent wavelength output of bars forming the stack, thereby obtaining the narrow-spectrum high-power semiconductor laser stack. According to the narrow-spectrum high-power semiconductor laser stack and the preparation method thereof, the spectrum narrowing effect is good, the spectrum width of the narrow-spectrum high-power semiconductor laser stack prepared by adopting the method can be reduced by about 30%.",
+  "ipcr_codes": [
+    "H01S5/40",
+    "H01S5/024"
+  ],
+  "cpc_codes": [],
+  "cited_patents": [
+    "101640379",
+    "203071398",
+    "101635432"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

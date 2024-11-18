@@ -1,0 +1,34 @@
+{
+  "lens_id": "012-025-388-989-560",
+  "doc_number": "1343231",
+  "title": "Gruppe III Nitriden Halbleiterlaser",
+  "abstract": "A semiconductor laser comprises a sapphire substrate, an A1N buffer layer, Si-doped GaN n-layer, Si-doped Al 0.1 Ga 0.9 N n-cladding layer, Si-doped GaN n-guide layer, an active layer having multiple quantum well (MQW) structure in which about 35 \u00c5 in thickness of GaN barrier layer 62 and about 35 \u00c5 in thickness of Ga 0.95 Tn 0.05 N well layer 61 are laminated alternately, Mg-doped GaN p-guide layer, Mg-doped Al 0.25 Ga 0.75 N p-layer, Mg-doped Al 0.1 Ga 0.9 N p-cladding layer, and Mg-doped GaN p-contact layer are formed successively thereon. A ridged hole injection part B which contacts to a ridged laser cavity part A is formed to have the same width as the width w of an Ni electrode. Because the p-layer has a larger aluminum composition, etching rate becomes smaller and that can prevent from damaging the p-guide layer in this etching process.",
+  "ipcr_codes": [
+    "H01S5/20",
+    "H01S5/042",
+    "H01S5/22",
+    "H01S5/227",
+    "H01S5/323",
+    "H01S5/343"
+  ],
+  "cpc_codes": [
+    "B82Y20/00",
+    "H01S5/2004",
+    "H01S5/209",
+    "H01S5/22",
+    "H01S5/34333",
+    "H01S2301/18",
+    "H01S5/30",
+    "B82Y20/00",
+    "H01S5/2004",
+    "H01S5/34333",
+    "H01S5/22",
+    "H01S2301/18",
+    "H01S5/209"
+  ],
+  "cited_patents": [
+    "1063710"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,30 @@
+{
+  "lens_id": "015-064-383-625-021",
+  "doc_number": "113013424",
+  "title": "High-efficiency composite catalyst applied to fuel cell, and preparation method thereof",
+  "abstract": "The invention discloses a high-efficiency composite catalyst applied to a fuel cell, and a preparation method thereof. The method comprises the following steps: preparing a first metal organic framework material; preparing a second metal organic framework material; loading metal platinum on the particle surface of the first metal organic framework material by adopting a reflux adsorption method; and mixing and firing the first metal organic framework material loaded with the metal platinum and the second metal organic framework material to obtain the high-efficiency composite catalyst applied to the fuel cell. After the metal platinum is loaded on the surface of the first metal organic framework material, the second metal framework is attached to the surface of the first metal organic framework material through low-temperature firing, so that the anchoring effect on the metal platinum and the overall thermal stability can be improved, and the adsorption effect of the second metal organic framework material on water can be utilized; and a certain water film is formed on the surface through adsorption during catalytic reaction, so that the contact between metal platinum and CO can be effectively blocked, and the CO poisoning resistance of the platinum catalyst is further remarkably improved.",
+  "ipcr_codes": [
+    "H01M4/88",
+    "H01M4/92"
+  ],
+  "cpc_codes": [
+    "H01M4/8878",
+    "H01M4/925",
+    "Y02E60/50"
+  ],
+  "cited_patents": [
+    "103008012",
+    "103242374",
+    "2016102037",
+    "107638870",
+    "108126756",
+    "108393097",
+    "2019386318",
+    "111710878",
+    "106229492",
+    "108554455",
+    "110534755"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

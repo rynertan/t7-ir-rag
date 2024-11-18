@@ -1,0 +1,25 @@
+{
+  "lens_id": "012-816-696-015-814",
+  "doc_number": "2001040773",
+  "title": "SYSTEM AND METHOD FOR FREQUENCY DOMAIN INTERFEROMETRIC SECOND HARMONIC SPECTROSCOPY",
+  "abstract": "A method of spectroscopically analyzing amplitude and phase information of a particular sample (510) is disclosed, comprising providing a femtosecond laser source (502) positioned in an angularly distal relationship to the sample, generating from the laser source a primary light pulse (504) of substantial peak intensity and spectral bandwidth directed at the sample, and providing a reference medium (512) interposed between the light source and the sample, fixed in position with respect to the sample. A portion of the primary light pulse is directed through the reference medium generating a reference second harmonic signal (514) directed at the sample, which propagates collinearly with the primary light pulse towards the sample. A spectrometer (520) is provided, positioned in an angularly distal relationship to the sample and opposing the laser source, to receive second harmonic reflections of the primary pulse and reference signal (516 and 514, respectively) from said sample. The second harmonic reflections received are then analyzed.",
+  "ipcr_codes": [
+    "G01J3/433",
+    "G01J3/453",
+    "G01N21/84",
+    "G01N21/95"
+  ],
+  "cpc_codes": [
+    "G01J3/4338",
+    "G01J3/453",
+    "G01N21/8422",
+    "G01N21/9501",
+    "G01N21/8422",
+    "G01N21/9501",
+    "G01J3/4338",
+    "G01J3/453"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

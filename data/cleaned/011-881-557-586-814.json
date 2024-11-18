@@ -1,0 +1,22 @@
+{
+  "lens_id": "011-881-557-586-814",
+  "doc_number": "2909775",
+  "title": "METHODE DE CONSTRUCTION D'UN MODELE GEOLOGIQUE D'UNE FORMATION DU SOUS-SOL CONTRAINT PAR DES DONNEES SISMIQUES",
+  "abstract": "- M\u00e9thode de construction d'un mod\u00e8le g\u00e9ologique d'une formation du sous-sol contraint par des donn\u00e9es sismiques.- On acquiert des diagraphies relatives \u00e0 des propri\u00e9t\u00e9s g\u00e9ologiques et l'on construit un cube de faci\u00e8s sismiques. On simule ensuite des diagraphies relatives \u00e0 des propri\u00e9t\u00e9s g\u00e9ologiques ainsi que des diagraphies relatives \u00e0 des faci\u00e8s sismiques. Puis, on estime en tout point du sous-sol les distributions de proportions \u00e0 l'aide des diagraphies acquises au puits et des diagraphies simul\u00e9es. On d\u00e9finit alors une contrainte sismique en construisant un cube de proportions moyennes de faci\u00e8s lithologique \u00e0 partir de ces distributions de proportions estim\u00e9es. Enfin, on construit un mod\u00e8le g\u00e9ologique dans lequel les propri\u00e9t\u00e9s g\u00e9ologiques sont contraintes par ce cube de proportions moyennes de faci\u00e8s lithologique.- Application notamment \u00e0 l'exploitation de gisements p\u00e9troliers.",
+  "ipcr_codes": [
+    "G01V11/00",
+    "G01V1/28"
+  ],
+  "cpc_codes": [
+    "G01V1/30",
+    "G01V1/30"
+  ],
+  "cited_patents": [
+    "2004095072",
+    "6374185",
+    "0745870",
+    "4679174"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,26 @@
+{
+  "lens_id": "014-870-406-428-11X",
+  "doc_number": "109149922",
+  "title": "A power factor correction circuit and an alternating current charger for an electric vehicle using the same",
+  "abstract": "The invention relates to a power factor correction circuit, comprising two groups of Boost circuits which are connected in parallel and work alternately, and a control circuit which outputs control signals corresponding to different working modes to control the Boost circuits. The working mode comprises a fixed frequency mode, a frequency conversion mode and a frequency hopping mode. When the fixed frequency mode is adopted, the control signals received by the two groups of Boost circuits are the fixed frequency PWM signals with the maximum frequency. When the frequency conversion mode is adopted, the control signals received by the two Boost circuits are the frequency conversion PWM signals according to whether the corresponding inductor current reaches the reference amplitude; In frequency hopping mode, the control signals received by the two sets of Boost circuits are a series of pulse signals output only when the output voltage of the AC/DC converter drops to a set voltage threshold. The invention also relates to an alternating current charger for an electric vehicle using the power factor correction circuit. By adopting different control strategies in different load intervals,the invention ensures that the power factor correction stage of the alternating current charger maintains high efficiency in the full load range.",
+  "ipcr_codes": [
+    "H02M1/42",
+    "H02M3/158"
+  ],
+  "cpc_codes": [
+    "H02M1/4225",
+    "H02M3/1584",
+    "Y02B70/10"
+  ],
+  "cited_patents": [
+    "102118107",
+    "102318173",
+    "103378718",
+    "203278655",
+    "8937469",
+    "105743343",
+    "106208697"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

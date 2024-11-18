@@ -1,0 +1,42 @@
+{
+  "lens_id": "013-072-810-766-820",
+  "doc_number": "2696315",
+  "title": "METHOD OF PRODUCING RENAL PROGENITOR CELLS AND MEDICINAL AGENT CONTAINING SAME",
+  "abstract": "FIELD: biochemistry.SUBSTANCE: invention relates to biochemistry, in particular to a method for producing renal progenitor cells from mesodermal intermediate cells, comprising culturing mesoderm intermediate cells in a medium containing TGF\u03b2 signal activator(s) and a BMP inhibitor(s). Also disclosed is a method of producing renal progenitor cells from induced pluripotent stem (iPS) cells, also comprising culturing cells in a medium containing a TGF\u03b2 signal transmission activator(s) and a BMP inhibitor(s).EFFECT: invention enables efficient production of renal precursor cells.16 cl, 7 dwg, 11 ex",
+  "ipcr_codes": [
+    "C12N5/071"
+  ],
+  "cpc_codes": [
+    "C12N5/0686",
+    "C12N2501/15",
+    "C12N2501/155",
+    "C12N2506/45",
+    "A61K35/545",
+    "A61K38/1841",
+    "A61K35/22",
+    "A61P13/12",
+    "A61P31/12",
+    "A61K35/22",
+    "A61K35/545",
+    "C12N5/0686",
+    "C12N5/0687",
+    "C12N2501/999",
+    "C12N2501/155",
+    "C12N2501/15",
+    "C12N2506/45",
+    "C12N2501/15",
+    "C12N2506/45",
+    "C12N2501/155",
+    "A61K35/545",
+    "A61K38/1841",
+    "C12N5/0686",
+    "A61K35/22",
+    "C12N5/0687",
+    "C12N2501/999"
+  ],
+  "cited_patents": [
+    "2010111908"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,24 @@
+{
+  "lens_id": "008-279-200-346-957",
+  "doc_number": "110702829",
+  "title": "Method for measuring content of aldosterone in plasma or serum",
+  "abstract": "The invention relates to the technical field of analysis and detection, in particular to a method for measuring the content of aldosterone in plasma or serum. The method comprises the following stepsof adding an internal standard into a sample, adding a zinc sulfate solution for protein precipitation, then adding a phosphoric acid solution for dilution, conducting centrifuging, and taking a supernatant; enriching the supernatant by using a solid-phase extraction plate to obtain an enriched sample; and detecting the enriched sample by ultra-high performance liquid chromatography tandem quadrupole mass spectrometry, wherein the condition of ultra-high performance liquid chromatography is that a chromatographic column is a reversed-phase C18 column, a mobile phase A is methanol, a mobile phase B is ultrapure water, and a gradient elution mode is adopted, and the condition of the quadrupole mass spectrometry is that a negative ion mode is adopted and the scanning method is multi-reactionmonitoring (MRM) ion scanning. The detection method does not have matrix interference, shortens the sample pretreatment time, and has high detection sensitivity, high precision and strong specificity.",
+  "ipcr_codes": [
+    "G01N30/88",
+    "G01N30/06",
+    "G01N30/08"
+  ],
+  "cpc_codes": [
+    "G01N30/88",
+    "G01N30/06",
+    "G01N30/08",
+    "G01N2030/062",
+    "G01N2030/8822"
+  ],
+  "cited_patents": [
+    "106770824",
+    "107462653"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

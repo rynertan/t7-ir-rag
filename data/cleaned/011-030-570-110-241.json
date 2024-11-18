@@ -1,0 +1,35 @@
+{
+  "lens_id": "011-030-570-110-241",
+  "doc_number": "110033431",
+  "title": "Non-contact detection device and method for detecting rusted area on surface of steel bridge",
+  "abstract": "The invention belongs to the field of bridge detection, and particularly relates to a non-contact detection device and method for detecting rusted area on surface of steel bridge based on an infraredand high-definition image sensor synchronous acquisition module and a deep learning pixel mode classifier. The device comprises an unmanned aerial vehicle and an image acquisition module, wherein theimage acquisition module comprises a thermal infrared imager core, an image sensor, a synchronous acquisition and recording module and an SD card; the image acquisition module is installed on the unmanned aerial vehicle, the remote control unmanned aerial vehicle synchronously shoots IR images and RGB images on the two side faces of the steel bridge at the position 30 meters away from the steel bridge, the shot images are stored in the SD card, and then analysis and processing are conducted through a method based on a deep learning pixel pattern classifier. According to the method, the image acquisition efficiency is improved, the limitation that a traditional image processing method cannot directly use an original bridge image to carry out corrosion detection is broken through, and the anti-interference capability of a detection algorithm and the adaptability to different bridge environments are improved.",
+  "ipcr_codes": [
+    "G06T7/00",
+    "G06K9/62",
+    "G06N3/04",
+    "G06T7/11",
+    "G06T7/13",
+    "G06T7/136",
+    "G06T7/33"
+  ],
+  "cpc_codes": [
+    "G06T7/0004",
+    "G06T7/11",
+    "G06T7/13",
+    "G06T7/136",
+    "G06T7/33",
+    "G06T2207/20061",
+    "G06T2207/20084",
+    "G06N3/045",
+    "G06F18/24",
+    "G06F18/214"
+  ],
+  "cited_patents": [
+    "101214851",
+    "206330924",
+    "108490967",
+    "201741029804"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

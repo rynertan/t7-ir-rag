@@ -1,0 +1,34 @@
+{
+  "lens_id": "013-875-593-286-044",
+  "doc_number": "3096159",
+  "title": "Proc\u00e9d\u00e9 de param\u00e9trage d\u2019un filtre num\u00e9rique pour l\u2019att\u00e9nuation d\u2019une fr\u00e9quence associ\u00e9e \u00e0 un mode de torsion d\u2019une ligne de transmission de puissance d\u2019un turbomoteur",
+  "abstract": "Proc\u00e9d\u00e9 de param\u00e9trage d\u2019un filtre num\u00e9rique pour l\u2019att\u00e9nuation d\u2019une fr\u00e9quence associ\u00e9e \u00e0 un mode de torsion d\u2019une ligne de transmission de puissance d\u2019un turbomoteur   L\u2019invention concerne un proc\u00e9d\u00e9 de param\u00e9trage d\u2019un filtre num\u00e9rique pour l\u2019att\u00e9nuation d\u2019un mode de torsion d\u2019une ligne de transmission de puissance d\u2019un turbomoteur (1) d\u2019a\u00e9ronef, ledit mode \u00e9tant associ\u00e9 \u00e0 une fr\u00e9quence F_T comprise dans un intervalle de confiance Ic, le filtre num\u00e9rique \u00e9tant de type passe-bas et :- d\u00e9crit par une fonction de transfert causale, stable et \u00e9gale au quotient N(z)/D(z),- destin\u00e9 \u00e0 \u00eatre int\u00e9gr\u00e9 dans une boucle de contr\u00f4le pr\u00e9existante du turbomoteur (1), de sorte \u00e0 filtrer des signaux \u00e9chantillonn\u00e9s \u00e0 une fr\u00e9quence F_E, ladite boucle \u00e9tant ferm\u00e9e et de gain major\u00e9, en valeur absolue, par une valeur V dans sa bande passante. En outre, le proc\u00e9d\u00e9 comporte :- une \u00e9tape (100) de calcul de z\u00e9ros de N(z), de sorte que le filtre att\u00e9nue la fr\u00e9quence F_T,- une \u00e9tape (200) de mise \u00e0 jour des z\u00e9ros de N(z), de sorte que le gain du filtre satisfasse, dans l\u2019intervalle Ic, un premier gabarit de gain,- une \u00e9tape (300) de d\u00e9termination de p\u00f4les de D(z), de sorte que, dans la bande passante de la boucle :      - la phase du filtre satisfait un gabarit de phase,      - le gain du filtre satisfait un second gabarit de gain.  Figure pour l\u2019abr\u00e9g\u00e9 : Fig. 4.",
+  "ipcr_codes": [
+    "G06F17/10",
+    "F16F15/00"
+  ],
+  "cpc_codes": [
+    "B64C27/001",
+    "F04D29/668",
+    "G01H1/10",
+    "G06F17/13",
+    "F04D27/0261",
+    "F01D1/00",
+    "F05D2260/80",
+    "F01D21/003",
+    "G05D19/02",
+    "Y02B30/70",
+    "B64C27/00",
+    "F01D25/04",
+    "F04D29/668",
+    "F05D2220/323",
+    "F05D2220/329",
+    "F05D2260/96",
+    "G01H1/10",
+    "G05D19/02",
+    "H04B3/542"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

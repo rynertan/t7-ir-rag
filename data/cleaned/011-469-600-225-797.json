@@ -1,0 +1,32 @@
+{
+  "lens_id": "011-469-600-225-797",
+  "doc_number": "2331955",
+  "title": "VERFAHREN ZUR DIAGNOSE EINER ATEMWEGSERKRANKUNG",
+  "abstract": null,
+  "ipcr_codes": [
+    "G01N33/48",
+    "G01N24/08",
+    "G01N33/483",
+    "G01N33/68",
+    "G01R33/465"
+  ],
+  "cpc_codes": [
+    "G01N24/08",
+    "G01N33/6893",
+    "G01N2800/12",
+    "G01N2800/122",
+    "G01R33/4625",
+    "G01R33/465",
+    "G01R33/465",
+    "G01N2800/122",
+    "G01R33/4625",
+    "G01N24/08",
+    "G01N2800/12",
+    "G01N33/6893"
+  ],
+  "cited_patents": [
+    "2004038444"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

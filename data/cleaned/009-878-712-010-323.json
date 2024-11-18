@@ -1,0 +1,25 @@
+{
+  "lens_id": "009-878-712-010-323",
+  "doc_number": "110568373",
+  "title": "Method and system for evaluating health status of lithium battery, terminal and storage medium",
+  "abstract": "The invention discloses a method and system for evaluating health status of a lithium battery, a terminal and a storage medium, wherein the method comprises the following steps of simulating pulse data through a pre-built equivalent circuit model of the lithium battery, and constructing a parameter lookup table; calculating with a Kalman filtering method and combined with the parameter values in the parameter lookup table to obtain the real-time remaining power; obtaining the real-time charge and discharge current and the duration of use of the lithium battery from the monitoring data generated during the use of the lithium battery, and calculating the amount of change in the discharge depth of the lithium battery; and calculating a real-time health evaluation value of the lithium batteryaccording to the preset initial discharge depth, real-time remaining power, and the amount of change in the discharge depth of the lithium battery. The invention establishes an equivalent circuit model, simulates the pulse data of the lithium battery, and characterizes the battery performance parameters, thereby calculating the real-time remaining power and health status of the lithium battery, which is convenient and fast, and has high accuracy.",
+  "ipcr_codes": [
+    "G01R31/392",
+    "G01R31/367"
+  ],
+  "cpc_codes": [
+    "G01R31/392",
+    "G01R31/367"
+  ],
+  "cited_patents": [
+    "2011086451",
+    "2011148424",
+    "103544330",
+    "104914380",
+    "106918787",
+    "108549032",
+    "109367433"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,42 @@
+{
+  "lens_id": "009-474-160-107-803",
+  "doc_number": "3770910",
+  "title": "REKONFIGURIERBARES MESSSYSTEM",
+  "abstract": "A system for measuring health data includes a measurement device. The measurement device includes at least one measurement interface to receive a first fluid sample, a processor to measure one or more first characteristics of the first fluid sample, and at least one memory device to store first data. The processor reads the first data and measures the one or more first characteristics of the first fluid sample according to the first data. The at least one memory device also stores second data. The processor reads the second data instead of the first data to reconfigure the measurement device and measures one or more second characteristics of a second fluid sample according to the second data. An external processing device may be communicatively coupled to the measurement device and may execute a healthcare application that communicates with the measurement device and may be employed to reconfigure the measurement device.",
+  "ipcr_codes": [
+    "G16H10/60",
+    "A61B5/00",
+    "A61B5/145",
+    "A61B5/1455",
+    "A61B5/1495",
+    "G01N33/487",
+    "G16H40/40",
+    "G16H40/67"
+  ],
+  "cpc_codes": [
+    "A61B5/0024",
+    "G01N33/48792",
+    "A61B5/6898",
+    "A61B5/72",
+    "A61B5/14542",
+    "A61B5/14551",
+    "A61B5/1495",
+    "G16H40/40",
+    "G16H10/60",
+    "G16H40/67",
+    "G16H40/40",
+    "G01N33/48792",
+    "A61B5/14542",
+    "A61B5/0024",
+    "A61B5/14551",
+    "A61B5/1495",
+    "A61B5/72",
+    "A61B5/6898",
+    "G16H40/67",
+    "G16H10/60",
+    "G01N33/49"
+  ],
+  "cited_patents": [],
+  "citing_patents": [],
+  "description": ""
+}

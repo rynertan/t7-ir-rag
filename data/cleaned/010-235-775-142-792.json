@@ -1,0 +1,22 @@
+{
+  "lens_id": "010-235-775-142-792",
+  "doc_number": "108509415",
+  "title": "Word order weighting-based sentence similarity calculation method",
+  "abstract": "The invention provides a word order weighting-based sentence similarity calculation method. The method comprises the following steps of: obtaining a corpus set A in a form of (Label1i, Sen1i), and carrying out training to obtain word vector models of all the words in the corpus set A; constructing a test corpus set B in a form of (Label2j, Sen2j), and obtaining word vector models of all the Sen2jwords in the corpus set B by adoption of an incremental training manner; obtaining sentence vectors SenVec1i and SenVec2j of statements SenVec1i and SenVec2j by adoption of word order weighting manneraccording to the word vector models obtained by the corpus set B; calculating a similarity between one Sen2j and each statement Sen1i one by one, comparing the Label1i corresponding to the statementSen1i with the highest similarity with the Label2j, if the comparison result is consistent, considering that the result is correct, and otherwise, storing (Sen1i, Sen2j) to a training corpus set C; and furthermore processing the training corpus set C to obtain a new word vector model so as to carry out next statement similarity calculation. Through above steps, the state similarity calculation correctness is improved.",
+  "ipcr_codes": [
+    "G06F17/27"
+  ],
+  "cpc_codes": [
+    "G06F40/216",
+    "G06F40/289"
+  ],
+  "cited_patents": [
+    "105095188",
+    "2016196258",
+    "106055673",
+    "106610950",
+    "106844350"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

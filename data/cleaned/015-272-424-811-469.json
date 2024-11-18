@@ -1,0 +1,27 @@
+{
+  "lens_id": "015-272-424-811-469",
+  "doc_number": "102016100592",
+  "title": "Projektor zum Projizieren von Bildern",
+  "abstract": "Es wird ein Projektor zum Projizieren von Bildern, mit einem ersten und zweiten Modulator (3, 5) und einer Abbildungsoptik (4), die den ersten auf den zweiten Modulator abbildet, bereitgestellt, wobei jeder Modulator (3) mehrere in Zeilen und Spalten angeordnete Pixel aufweist, die voneinander unabh\u00e4ngig jeweils in einen ersten Zustand, in dem auf sie treffendes Licht zur Bilderzeugung verwendet wird, und in einen zweiten Zustand, in dem auf sie treffendes Licht nicht zur Bilderzeugung dient, schaltbar sind, um das Licht zur Erzeugung der Bilder pixelindividuell zu modulieren, wobei jedem zweiten Pixel des zweiten Modulators mindestens ein erstes Pixel des ersten Modulators in der Art zugeordnet ist, dass die Abbildungsoptik das zweite Pixel a) mit Licht vom jeweils zugeordneten ersten Pixel beaufschlagt, wenn das zugeordnete erste Pixel in den ersten Zustand geschaltet ist, um das zweite Pixel aktiv zu beleuchten, und b) nicht mit Licht vom jeweils zugeordneten ersten Pixel beaufschlagt, wenn das zugeordnete erste Pixel in den zweiten Zustand geschaltet ist, um das zweite Pixel nicht aktiv zu beleuchten, so dass nur nicht zu vermeindendes Restlicht auf das zweite Pixel f\u00e4llt, wobei eine Steuereinheit die Modulatoren so ansteuert, dass f\u00fcr zumindest ein zweites Pixel, das gem\u00e4\u00df zugef\u00fchrten Bilddaten einen Helligkeitswert darstellen soll, der gr\u00f6\u00dfer als Null sowie kleiner oder gleich einem vorbestimmten ersten Schwellwert ist, das bzw. die zugeordneten ersten Pixel mindestens zu den Zeitabschnitten, in denen das zweite Pixel in den ersten Zustand geschaltet wird, in den zweiten Zustand geschaltet ist bzw. sind, so dass keine aktive Beleuchtung erfolgt und das zweite Pixel das Restlicht moduliert.",
+  "ipcr_codes": [
+    "H04N5/74",
+    "H04N9/31"
+  ],
+  "cpc_codes": [
+    "H04N9/3126",
+    "G03B21/005",
+    "H04N9/3126",
+    "G03B21/005",
+    "G09G3/001",
+    "G09G3/2014",
+    "G09G5/10",
+    "G09G2320/0233",
+    "G09G2320/0238",
+    "G09G2360/16"
+  ],
+  "cited_patents": [
+    "2009156129"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

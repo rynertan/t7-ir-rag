@@ -1,0 +1,35 @@
+{
+  "lens_id": "015-072-272-106-376",
+  "doc_number": "109609425",
+  "title": "Method for restoring and screening integrative recombinants by using activity of enzymes with integration sites of bacillus subtilis",
+  "abstract": "The invention specially relates to a method for restoring and screening integrative recombinants by using activity of enzymes with integration sites of bacillus subtilis. The method comprises the steps of (1) constructing a gene resistance integrated plasmid, transferring bacillus subtilis, and performing screening to obtain bacillus subtilis of which the 3'rd ends are deleted and inactivated in the enzymes of the integration sites; (2) constructing an exogenous gene integrated plasmid; and (3) transferring the bacillus subtilis obtained in the step (1) with the exogenous gene integrated plasmid, wherein the enzymes of the integration sites can be used for enzymolysis and utilization of an agar solid culture medium of substances as a screening culture medium, through inactivation of antibiotic resistance and enzymatic activity of the integration sites, screening out the exogenous gene integrated plasmid, and through homologous double exchange, performing integration to a re-engineeringbacterium of the bacillus subtilis. The method has the advantages that antibiotic resistance genes are not needed as screening labels of the reorganized bacillus subtilis; and the obtained reorganized bacillus subtilis can maintain enzymatic activity of the integration sites.",
+  "ipcr_codes": [
+    "C12N1/21",
+    "C12N15/56",
+    "C12N15/65",
+    "C12N15/75",
+    "C12R1/125"
+  ],
+  "cpc_codes": [
+    "C12N9/2402",
+    "C12N9/2417",
+    "C12N15/65",
+    "C12N15/75",
+    "C12Y302/01001"
+  ],
+  "cited_patents": [
+    "101948821",
+    "102021164",
+    "102127529",
+    "102127530",
+    "102181469",
+    "103451224",
+    "104962508",
+    "105063078",
+    "106676119",
+    "106967659",
+    "107287228"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

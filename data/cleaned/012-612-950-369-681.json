@@ -1,0 +1,29 @@
+{
+  "lens_id": "012-612-950-369-681",
+  "doc_number": "2553780",
+  "title": "Improvements in or relating to a device and a method for labelling a component",
+  "abstract": "A method for fluorescent labelling a component in a mixture comprises the steps of: (a) providing a strongly buffered alkaline solution of aromatic ortho-dialdehyde dye, such as ortho-phthaldialdehyde (OPA), in a first reservoir 12; (b) providing a weakly buffered acidic solution of a reducing agent, such as \u03b2-mercaptoethanol (BME), in a second reservoir 14; (c) providing a component in a fluid pathway 16, which is connected to the first and second reservoirs by a network of connection channels 18; and (d) flowing the alkaline solution and acidic solution through the network of connection channels to combine with the component in order to label the component by reacting the component with the aromatic ortho-dialdehyde dye and the reducing agent. An anti-oxidant additive may be used to stabilise the reducing agent in the second reservoir, which may be selected from an ascorbate, an isoascorbate, or a lactate. Preferably the fluid pathways are provided on a microfluidic device. The method may be used in assaying amino groups of biological molecules such as proteins and peptides.",
+  "ipcr_codes": [
+    "G01N33/52",
+    "G01N21/64"
+  ],
+  "cpc_codes": [
+    "B01L3/502715",
+    "G01N33/533",
+    "B01L2400/0605",
+    "B01L2400/084",
+    "B01L3/5027",
+    "G01N21/64",
+    "G01N33/52",
+    "B01L3/502715",
+    "B01L2400/0605",
+    "B01L2400/084",
+    "G01N33/533"
+  ],
+  "cited_patents": [
+    "1296184",
+    "2015071683"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

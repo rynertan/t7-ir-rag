@@ -1,0 +1,35 @@
+{
+  "lens_id": "015-864-814-330-299",
+  "doc_number": "2019145920",
+  "title": "BONDED SUBSTRATE, SURFACE ACOUSTIC WAVE ELEMENT, SURFACE ACOUSTIC WAVE ELEMENT DEVICE AND METHOD FOR MANUFACTURING BONDED SUBSTRATE",
+  "abstract": "To reduce the propagation attenuation of a surface acoustic wave to propagate the surface acoustic wave.SOLUTION: The bonded substrate includes a quartz crystal substrate cut at an angle intersecting the crystal X-axis and a piezo-electric substrate laminated on the quartz crystal substrate. The cut angle of the quartz crystal substrate is preferably in a range of 85-95 degrees to the crystal X-axis; the surface acoustic wave propagation direction of the quartz crystal substrate has preferably an angle of 15-50 degrees to the crystal Y-axis; lithium niobate or lithium tantalate is preferably used as the piezo-electric substrate; and the piezo-electric substrate preferably has a relationship that the thickness h is 0.02-0.11\u03bb to the wavelength \u03bb of the surface acoustic wave.SELECTED DRAWING: Figure 1",
+  "ipcr_codes": [
+    "H03H9/25",
+    "C30B33/02",
+    "H03H3/08"
+  ],
+  "cpc_codes": [
+    "C30B29/30",
+    "C30B33/06",
+    "C30B29/18",
+    "H03H9/02559",
+    "H03H9/02574",
+    "H10N30/072",
+    "H03H9/25",
+    "C30B33/02",
+    "H03H3/08",
+    "C30B29/30",
+    "C30B29/30",
+    "C30B33/02",
+    "C30B33/06",
+    "H03H3/08",
+    "H03H9/25"
+  ],
+  "cited_patents": [
+    "2018026695",
+    "H10178331",
+    "2006339308"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

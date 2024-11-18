@@ -1,0 +1,22 @@
+{
+  "lens_id": "013-055-089-495-345",
+  "doc_number": "2008036403",
+  "title": "NETWORK DEVICE MANAGEMENT SYSTEM AND METHOD FOR CONFIGURATION OF UNIQUE DEVICE NAMES",
+  "abstract": "A network device management system (10) comprises a network-attachable device (14) having logic (60) for automatically renaming, using a network basic input/output system (NetBIOS) protocol, the device (14) in response to a network name collision associated with the device (14) on an attached network (12).",
+  "ipcr_codes": [
+    "H04L29/12"
+  ],
+  "cpc_codes": [
+    "H04L61/3005",
+    "H04L61/5092",
+    "H04L61/30",
+    "H04L61/3005",
+    "H04L61/30",
+    "H04L61/5092"
+  ],
+  "cited_patents": [
+    "1353486"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

@@ -1,0 +1,38 @@
+{
+  "lens_id": "008-420-930-151-465",
+  "doc_number": "2820595",
+  "title": "SYSTEM UND VERFAHREN ZUR PHYSISCHEN ERKENNEN VON GEF\u00c4LSCHTER ELEKTRONIK",
+  "abstract": null,
+  "ipcr_codes": [
+    "G06K17/00",
+    "G01R31/00",
+    "G06F21/73",
+    "G06K19/07",
+    "G06Q30/00",
+    "H01L23/00"
+  ],
+  "cpc_codes": [
+    "H01L23/576",
+    "H01L2223/6677",
+    "H01L2924/0002",
+    "H01L2924/14",
+    "H01L2924/19105",
+    "G06F21/73",
+    "G01R31/2837",
+    "G01R31/2839",
+    "H01L23/576",
+    "H01L2223/6677",
+    "H01L2924/19105",
+    "H01L2924/14",
+    "H01L2924/0002",
+    "G06F21/73",
+    "G01R31/2839",
+    "G01R31/2837"
+  ],
+  "cited_patents": [
+    "2010237854",
+    "2010033386"
+  ],
+  "citing_patents": [],
+  "description": ""
+}

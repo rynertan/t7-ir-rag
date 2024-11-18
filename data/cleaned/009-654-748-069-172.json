@@ -1,0 +1,31 @@
+{
+  "lens_id": "009-654-748-069-172",
+  "doc_number": "113203527",
+  "title": "Method for detecting position of leakage point of underground concrete continuous wall",
+  "abstract": "The invention relates to a method for detecting the position of a leakage point of an underground concrete continuous wall. The method comprises the steps of S1, digging a preliminary exploration well out of the continuous wall; S2, extracting underground water in the continuous wall; S3, observing the water level of the preliminary exploration well, and determining that the continuous wall corresponding to the preliminary exploration well with the reduced water level is the orientation of a leakage point; S4, digging a detection groove outside the leakage point area of the continuous wall, and dividing the detection groove into a plurality of detection intervals by using partition plates; S5, filling water into the detection groove, observing the water level of each detection interval, and if the water level of a certain detection interval drops, determining that the continuous wall corresponding to the detection interval is the position of the leakage point; S6, pumping out water in the detection groove, taking out the partition plates, reserving the two partition plates on the two sides of the detection interval, and backfilling the other detection intervals; and S7, irrigating the detection interval step by step, conducting standing for a period of time after each time of irrigation, observing the water level change, and if the water level drops at a certain time, determining the position corresponding to the water level height as the final position of the leakage point. The method has the effect of improving the comprehensiveness of leakage point position detection of the continuous wall.",
+  "ipcr_codes": [
+    "G01M3/04",
+    "E02D31/02",
+    "E02D31/10",
+    "G01F23/58"
+  ],
+  "cpc_codes": [
+    "G01M3/04",
+    "G01F23/58",
+    "E02D31/02",
+    "E02D31/10"
+  ],
+  "cited_patents": [
+    "4561292",
+    "101429764",
+    "103266638",
+    "103882891",
+    "106088174",
+    "206019997",
+    "2020187119",
+    "201883450",
+    "106320393"
+  ],
+  "citing_patents": [],
+  "description": ""
+}
